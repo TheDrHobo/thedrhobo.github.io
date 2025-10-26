@@ -5,7 +5,7 @@ title: Top 10 Films (No Particular Order)
 
 # Top 10 Films (No Particular Order)
 
-These are 10 films that have stuck with me over the years. No ranking - just movies I love and think are worth your time. From sci-fi masterpieces to crime epics, these films shaped my love of cinema.
+These are 10 films that have stuck with me over the years. No ranking - just movies I love and think are worth your time.
 
 ---
 
@@ -52,7 +52,7 @@ Nolan's most rewatchable film? Entertaing and thoughful mediation on  obsession,
 **Director:** John G. Avildsen  
 **Year:** 1976
 
-Somehow raw, honest, and inspiring without being cheesy (unlike its follow-ups). I love how he knows he's going lose, but doing it on his own terms. 
+Almost put in Rambo instead, but this classic is somehow raw, honest, and inspiring without being cheesy (unlike its follow-ups). I love how he knows he's going lose, but is doing it anyway - on his own terms. 
 
 > *You're gonna eat lightnin' and you're gonna crap thunder!*
 
@@ -74,7 +74,7 @@ For me each one gets better, culminating with this one (P.S. I dont recognise th
 
 Cameron in my list again, with another sequel.  The liquid metal T-1000 was groundbreaking at the times and still holds up kind off. I love the motorbike scene, and the Sarah Connor transformation - immense by Linda Hamilton.Try to watch the DC for more heart and  character development.  
 
-> * I need your clothes, your boots and your motorcycle*
+> *I need your clothes, your boots and your motorcycle*
 
 ---
 
