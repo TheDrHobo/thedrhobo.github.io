@@ -3,23 +3,43 @@ layout: default
 title: Home
 ---
 
-# Welcome to The Dr Hobo
+# Welcome to Dr Hobo's mad page of intrests
 
 Hey there! I'm The Dr Hobo - a geek who loves ranking things and exploring the world.
 
-## What You'll Find Here
-
-- **Top 10 Films** - My favorite movies and why they matter
-- **Top 10 Video Games** - Gaming classics that deserve your time
-- **Top 10 Board Games** - Tabletop treasures for game night
-- **Top 10 Books** - Reading recommendations across genres
-- **Top 10 Travel Destinations** - Places worth visiting
-- **Blog Posts** - Random thoughts on geek culture and adventures
-
-## Latest Posts
-
-Coming soon! Check back regularly for new content.
+This is where I share my opinions on films, games, books, travel, and whatever else catches my interest. No algorithms, no clickbait - just honest takes on stuff I care about.
 
 ---
 
-*Want to get in touch? Find me on [social media platform] or drop a comment below!*
+## Top 10 Lists
+
+### 🎬 Films
+- [**Top 10 Films (No Particular Order)**](top-10-films) - My favorite movies and why!
+
+### 🎮 Video Games
+- *Coming soon!*
+
+### 🎲 Board Games
+- *Coming soon!*
+
+### 📚 Books
+- *Coming soon!*
+
+### ✈️ Travel Destinations
+- *Coming soon!*
+
+---
+
+## Latest Blog Posts
+
+*Coming soon! Check back regularly for new content.*
+
+---
+
+## About
+
+I read, game (boards and video), travel, and a bit of a general geek. This site is my corner of the internet to share recommendations and rants. If you love top 10 lists and honest opinions, stay!
+
+---
+
+*Want to get in touch? Disagree with my takes? Let me know in the comments!*
