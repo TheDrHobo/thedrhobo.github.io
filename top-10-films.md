@@ -5,7 +5,7 @@ title: Top 10 Films (No Particular Order)
 
 # Top 10 Films (No Particular Order)
 
-These are 10 films that have stuck with me over the years. No ranking - just movies I love and think are worth your time.
+These are 10 films that have stuck with me over the years. No ranking - just movies I love and think are worth your time. As of October 2025.
 
 ---
 
