@@ -22,8 +22,8 @@ This is where I share my opinions on films, games, books, travel, and whatever e
 ### 🎲 Board Games
 - *Coming soon!*
 
-### 📚 Books
-- *Coming soon!*
+## 📚 Books
+- [**Top 10 Books (No Particular Order)**](top-10-books) - My favorite reads across all genres
 
 ### ✈️ Travel Destinations
 - *Coming soon!*
