@@ -113,7 +113,7 @@ This book transported me completely. Murgatroyd's medieval China isn't just wind
 
 These almost made the list, and on another day, some of them might have:
 
-**Sovereign** (Matthew Shardlake series) by C.J. Sansom, **A Game of Thrones** by George R.R. Martin, **Dark Age** by Pierce Brown, **Warrior of Rome** series by Harry Sidebottom, **L.A. Requiem** (Elvis Cole series) by Robert Crais, **Flowers for Algernon** by Daniel Keyes, **To Kill a Mockingbird** by Harper Lee, **Sixteen Ways to Defend a Walled City** by K.J. Parker, **Heir to the Empire** by Timothy Zahn, **The Three-Body Problem** by Liu Cixin, **The Darkness That Comes Before** by R. Scott Bakker, **Walkaway** by Cory Doctorow
+**Sovereign** by C.J. Sansom, **Dark Age** by Pierce Brown, **Warrior of Rome** series by Harry Sidebottom, **L.A. Requiem** by Robert Crais, **Flowers for Algernon** by Daniel Keyes, **To Kill a Mockingbird** by Harper Lee, **Sixteen Ways to Defend a Walled City** by K.J. Parker, **Heir to the Empire** by Timothy Zahn, **The Three-Body Problem** by Liu Cixin, **The Darkness That Comes Before** by R. Scott Bakker, **Walkaway** by Cory Doctorow
 
 ---
 
