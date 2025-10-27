@@ -3,18 +3,18 @@ layout: default
 title: Home
 ---
 
-# Welcome to Dr Hobo's mad page of intrests
+# Welcome to Dr Hobo's personal rankings of the things most important in life
 
 Hey there! I'm The Dr Hobo - a geek who loves ranking things and exploring the world.
 
-This is where I share my opinions on films, games, books, travel, and whatever else catches my interest. No algorithms, no clickbait - just honest takes on stuff I care about.
+This is where I share my opinions on films, games, books, travel, and whatever else catches my interest. No algorithms, no clickbait - just stuff I like.
 
 ---
 
 ## Top 10 Lists
 
 ### 🎬 Films
-- [**Top 10 Films (No Particular Order)**](top-10-films) - My favorite movies and why!
+- [**Top 10 Films**](top-10-films) - My favorite movies and why!
 
 ### 🎮 Video Games
 - *Coming soon!*
@@ -23,7 +23,7 @@ This is where I share my opinions on films, games, books, travel, and whatever e
 - *Coming soon!*
 
 ## 📚 Books
-- [**Top 10 Books (No Particular Order)**](top-10-books) - My favorite reads across all genres
+- [**Top 10 Books**](top-10-books) - My favorite reads across all genres
 
 ### ✈️ Travel Destinations
 - *Coming soon!*
