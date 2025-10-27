@@ -5,7 +5,7 @@ title: Top 10 Books (No Particular Order)
 
 # Top 10 Books 
 
-These are the books that have stuck with me - the ones I return to, the ones that changed how I see stories, and the ones I can't stop recommending. No ranking, just ten books worth your time.
+These are the books that have stuck with me - the ones I return to, the ones that changed how I see stories, and the ones I can't stop recommending. No ranking, just ten books worth your time. As of October 2025.
 
 ---
 
