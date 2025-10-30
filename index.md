@@ -7,7 +7,7 @@ title: Home
 
 Hey there! I'm The Dr Hobo - a geek who loves ranking things and exploring the world.
 
-This is where I share my opinions on films, games, books, travel, and whatever else catches my interest. No algorithms, no clickbait - just stuff I like.
+This is where I share my opinions on films, games, books, music, travel, and whatever else catches my interest. No algorithms, no clickbait - just stuff I like.
 
 ---
 
@@ -16,14 +16,17 @@ This is where I share my opinions on films, games, books, travel, and whatever e
 ### 🎬 Films
 - [**Top 10 Films**](top-10-films) - My favorite movies and why!
 
+### 🎵 Music
+- [**Top 10 Songs**](top-10-songs) - The tracks that soundtrack my life
+
+### 📚 Books
+- [**Top 10 Books**](top-10-books) - My favorite reads across all genres
+
 ### 🎮 Video Games
 - *Coming soon!*
 
 ### 🎲 Board Games
 - *Coming soon!*
-
-## 📚 Books
-- [**Top 10 Books**](top-10-books) - My favorite reads across all genres
 
 ### ✈️ Travel Destinations
 - *Coming soon!*
