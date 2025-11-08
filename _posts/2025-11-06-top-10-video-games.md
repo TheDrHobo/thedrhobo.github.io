@@ -4,7 +4,7 @@ title: "Top 10 Video Games"
 author: "Dr Hobo"
 categories: gaming
 tags: [gaming, videogames, top10]
-image: Gaming.jpg
+image: gaming.jpg
 ---
 
 These are the games that have stuck with me - the ones I return to, the ones that changed how I see gaming, and the ones I can't stop recommending. No ranking, just ten games worth your time. As of November 2025.
