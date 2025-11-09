@@ -207,7 +207,7 @@ These almost made the list, and on another day, some of them might have:
 - **Skies of Arcadia** - Overworks, Dreamcast, 2000
 - **Golden Sun** - Camelot Software Planning, GBA, 2001
 - **Metroid Prime** - Retro Studios, GameCube, 2002
-- **Expedition 33** - Bit Golem, PC, 2023
+- **Clair Obscur: Expedition 33** - Sandfall Interactive, PC, 2025
 - **Age of Empires II** - Ensemble Studios, PC, 1999
 - **Aliens vs Predator** - Rebellion, PC, 1999
 - **Red Dead Redemption** - Rockstar San Diego, PS3/Xbox 360, 2010
