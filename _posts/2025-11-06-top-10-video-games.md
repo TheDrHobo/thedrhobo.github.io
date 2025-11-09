@@ -12,7 +12,7 @@ These are the games that have stuck with me - the ones I return to, the ones tha
 ---
 
 ## The Legend of Zelda: Ocarina of Time
-<img src="{{ site.github.url }}/assets/img/games/ocarina-of-time.jpg" alt="Ocarina of Time cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/games/Zelda.jpg" alt="Ocarina of Time cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** Nintendo 64  
 **Developer:** Nintendo  
@@ -30,7 +30,7 @@ This is the game that defined what 3D adventure games could be. A technical achi
 ---
 
 ## Half-Life
-<img src="{{ site.github.url }}/assets/img/games/half-life.jpg" alt="Half-Life cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/games/HL.jpg" alt="Half-Life cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** PC  
 **Developer:** Valve  
@@ -48,7 +48,7 @@ Half-Life changed everything about how we tell stories in first-person shooters.
 ---
 
 ## GoldenEye 007
-<img src="{{ site.github.url }}/assets/img/games/goldeneye.jpg" alt="GoldenEye 007 cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/games/007.jpg" alt="GoldenEye 007 cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** Nintendo 64  
 **Developer:** Rare  
@@ -65,26 +65,26 @@ Simply iconic. Rare took a movie license - something usually synonymous with dis
 
 ---
 
-## Perfect Dark
-<img src="{{ site.github.url }}/assets/img/games/perfect-dark.jpg" alt="Perfect Dark cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+## The Last of Us
+<img src="{{ site.github.url }}/assets/img/games/last.webp" alt="The Last of Us cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
-**Platform:** Nintendo 64  
-**Developer:** Rare  
-**Year:** 2000
+**Platform:** PlayStation 3  
+**Developer:** Naughty Dog  
+**Year:** 2013
 
-Rare took everything they learned from GoldenEye and expanded it beautifully despite losing the license. Perfect Dark was absurdly ambitious for the N64 - But what a game. The sci-fi setting freed them from Bond's constraints, and Joanna Dark was a genuinely cool protagonist. The weapons were creative and fun (the Laptop Gun!), the campaign was lengthy and varied, and the multiplayer added bots with customizable behavior - a revelation for all gaming- pioneering 'sims' before they were a thing. Perfected split-screen FPS multiplayer. 
+The Last of Us hit differently. And was the perfect palate clenser for me after completing a gruelling PhD. I had miss the intial hype when it first came out and playing it years later on the PS4 I had no idea what to expect, certainly not a emotioanlly devesting journey across a ruined America.  But what really struck me was the weight of the gameplay. That first brutal stealth kill made me realize this wasn't your typical third-person action game. There was real heft to the violence, a desperation that matched the narrative. The way you interacted with the environment, scavenging for supplies, crafting makeshift weapons - everything reinforced the sense of survival. Plus, of course, the ending: remains one of gaming's most morally complex and unforgettable moments - shame the TV show didnt quite do it justice. 
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
 
-> *The opening Chicago level, rappelling down the side of the building in the rain, smashing through windows as guards scramble. It announced immediately that this wasn't GoldenEye 2 - this was something more cinematic, more ambitious. That sense of spectacle and the slick future-noir aesthetic hooked me from the word go.*
+> *Two moments define this game for me: First, that initial stealth kill where you grab someone and brutally smash their head into the scenery - the visceral impact, the sound design, the weight of it made me go "wow, this is serious game." Second, the giraffes in Salt Lake City. After hours of violence and darkness, just standing there watching them peacefully graze among the ruins, nature reclaiming the cities. Pure beauty amidst the horror.*
 
 </details>
 
 ---
 
 ## Final Fantasy IV
-<img src="{{ site.github.url }}/assets/img/games/final-fantasy-iv.jpg" alt="Final Fantasy IV cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/games/ff4.jpeg" alt="Final Fantasy IV cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** Super Nintendo  
 **Developer:** Square  
@@ -138,7 +138,7 @@ BioWare took Star Wars to a place the movies never could - 4,000 years before th
 ---
 
 ## Grim Fandango
-<img src="{{ site.github.url }}/assets/img/games/grim-fandango.jpg" alt="Grim Fandango cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/games/grim.png" alt="Grim Fandango cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** PC  
 **Developer:** LucasArts  
@@ -156,7 +156,7 @@ Tim Schafer's masterpiece - a film noir detective story set in the Land of the D
 ---
 
 ## Super Smash Bros. Melee
-<img src="{{ site.github.url }}/assets/img/games/smash-melee.jpg" alt="Super Smash Bros Melee cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/games/melee.jpg" alt="Super Smash Bros Melee cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** GameCube  
 **Developer:** HAL Laboratory  
@@ -174,7 +174,7 @@ Melee was lightning in a bottle - a party game that accidentally became one of t
 ---
 
 ## Command & Conquer: Red Alert 2
-<img src="{{ site.github.url }}/assets/img/games/red-alert-2.jpg" alt="Red Alert 2 cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/games/red.webp" alt="Red Alert 2 cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** PC  
 **Developer:** Westwood Studios  
@@ -207,8 +207,7 @@ These almost made the list, and on another day, some of them might have:
 - **Skies of Arcadia** - Overworks, Dreamcast, 2000
 - **Golden Sun** - Camelot Software Planning, GBA, 2001
 - **Metroid Prime** - Retro Studios, GameCube, 2002
-- **The Last of Us** - Naughty Dog, PS3, 2013
-- **Expedition 33** - Bit Golem, PC, 2023
+- **Clair Obscur: Expedition 33** - Bit Golem, PC, 2023
 - **Age of Empires II** - Ensemble Studios, PC, 1999
 - **Aliens vs Predator** - Rebellion, PC, 1999
 - **Red Dead Redemption** - Rockstar San Diego, PS3/Xbox 360, 2010
@@ -217,6 +216,8 @@ These almost made the list, and on another day, some of them might have:
 - **XCOM 2** - Firaxis Games, PC, 2016
 - **The Secret of Monkey Island** - Lucasfilm Games, PC, 1990
 - **Grand Theft Auto: Vice City** - Rockstar North, PS2, 2002
+- **Perfect Dark** - Rare, N64, 2000
+- **Max Payne** - Remedy Entertainment, PC, 2001
 
 ---
 
