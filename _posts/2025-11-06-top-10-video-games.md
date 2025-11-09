@@ -12,7 +12,7 @@ These are the games that have stuck with me - the ones I return to, the ones tha
 ---
 
 ## The Legend of Zelda: Ocarina of Time
-<img src="{{ site.github.url }}/assets/img/games/Zelda.jpg" alt="Ocarina of Time cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/Zelda.jpg" alt="Ocarina of Time cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** Nintendo 64  
 **Developer:** Nintendo  
@@ -30,7 +30,7 @@ This is the game that defined what 3D adventure games could be. A technical achi
 ---
 
 ## Half-Life
-<img src="{{ site.github.url }}/assets/img/games/HL.jpg" alt="Half-Life cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/HL.jpg" alt="Half-Life cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** PC  
 **Developer:** Valve  
@@ -48,7 +48,7 @@ Half-Life changed everything about how we tell stories in first-person shooters.
 ---
 
 ## GoldenEye 007
-<img src="{{ site.github.url }}/assets/img/games/007.jpg" alt="GoldenEye 007 cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/007.jpg" alt="GoldenEye 007 cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** Nintendo 64  
 **Developer:** Rare  
@@ -66,25 +66,25 @@ Simply iconic. Rare took a movie license - something usually synonymous with dis
 ---
 
 ## The Last of Us
-<img src="{{ site.github.url }}/assets/img/games/last.webp" alt="The Last of Us cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/last.webp" alt="The Last of Us cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** PlayStation 3  
 **Developer:** Naughty Dog  
 **Year:** 2013
 
-The Last of Us hit differently. And was the perfect palate clenser for me after completing a gruelling PhD. I had miss the intial hype when it first came out and playing it years later on the PS4 I had no idea what to expect, certainly not a emotioanlly devesting journey across a ruined America.  But what really struck me was the weight of the gameplay. That first brutal stealth kill made me realize this wasn't your typical third-person action game. There was real heft to the violence, a desperation that matched the narrative. The way you interacted with the environment, scavenging for supplies, crafting makeshift weapons - everything reinforced the sense of survival. Plus, of course, the ending: remains one of gaming's most morally complex and unforgettable moments - shame the TV show didnt quite do it justice. 
+The Last of Us hit differently. Naughty Dog created something that transcended the zombie apocalypse genre - this was a story about broken people trying to find meaning in a dead world. Joel and Ellie's journey across a ruined America was emotionally devastating in ways few games achieve. But what really struck me was the weight of the gameplay. That first brutal stealth kill - grabbing someone from behind and violently smashing their head into the environment - made me realize this wasn't your typical third-person action game. There was real heft to the violence, a desperation that matched the narrative. The way you interacted with the environment, scavenging for supplies, crafting makeshift weapons - everything reinforced the sense of survival. And then there's the giraffe moment in Salt Lake City, watching these majestic creatures wandering through an overgrown urban landscape, nature reclaiming the world humanity destroyed. Pure beauty amidst the horror. The ending remains one of gaming's most morally complex and unforgettable moments.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
 
-> *Two moments define this game for me: First, that initial stealth kill where you grab someone and brutally smash their head into the scenery - the visceral impact, the sound design, the weight of it made me go "wow, this is serious game." Second, the giraffes in Salt Lake City. After hours of violence and darkness, just standing there watching them peacefully graze among the ruins, nature reclaiming the cities. Pure beauty amidst the horror.*
+> *Two moments define this game for me: First, that initial stealth kill where you grab someone and brutally smash their head into the scenery - the visceral impact, the sound design, the weight of it made me go "wow, this is serious." Second, the giraffes in Salt Lake City. After hours of violence and darkness, just standing there watching them peacefully graze among the ruins, nature reclaiming the cities - it was breathtaking. A moment of pure tranquility that made everything feel worth it.*
 
 </details>
 
 ---
 
 ## Final Fantasy IV
-<img src="{{ site.github.url }}/assets/img/games/ff4.jpeg" alt="Final Fantasy IV cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/ff4.jpeg" alt="Final Fantasy IV cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** Super Nintendo  
 **Developer:** Square  
@@ -102,7 +102,7 @@ Final Fantasy IV is really the first JRPG that knew waht is was doing. It realis
 ---
 
 ## FTL: Faster Than Light
-<img src="{{ site.github.url }}/assets/img/games/ftl.jpg" alt="FTL cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/ftl.jpg" alt="FTL cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** PC  
 **Developer:** Subset Games  
@@ -120,7 +120,7 @@ FTL is brutal, unforgiving, and absolutely brilliant. It's a roguelike space str
 ---
 
 ## Star Wars: Knights of the Old Republic
-<img src="{{ site.github.url }}/assets/img/games/kotor.jpg" alt="Knights of the Old Republic cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/kotor.jpg" alt="Knights of the Old Republic cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** Xbox  
 **Developer:** BioWare  
@@ -138,7 +138,7 @@ BioWare took Star Wars to a place the movies never could - 4,000 years before th
 ---
 
 ## Grim Fandango
-<img src="{{ site.github.url }}/assets/img/games/grim.png" alt="Grim Fandango cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/grim.png" alt="Grim Fandango cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** PC  
 **Developer:** LucasArts  
@@ -156,7 +156,7 @@ Tim Schafer's masterpiece - a film noir detective story set in the Land of the D
 ---
 
 ## Super Smash Bros. Melee
-<img src="{{ site.github.url }}/assets/img/games/melee.jpg" alt="Super Smash Bros Melee cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/melee.jpg" alt="Super Smash Bros Melee cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** GameCube  
 **Developer:** HAL Laboratory  
@@ -174,7 +174,7 @@ Melee was lightning in a bottle - a party game that accidentally became one of t
 ---
 
 ## Command & Conquer: Red Alert 2
-<img src="{{ site.github.url }}/assets/img/games/red.webp" alt="Red Alert 2 cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
+<img src="{{ site.github.url }}/assets/img/videogames/red.webp" alt="Red Alert 2 cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px;">
 
 **Platform:** PC  
 **Developer:** Westwood Studios  
@@ -207,7 +207,7 @@ These almost made the list, and on another day, some of them might have:
 - **Skies of Arcadia** - Overworks, Dreamcast, 2000
 - **Golden Sun** - Camelot Software Planning, GBA, 2001
 - **Metroid Prime** - Retro Studios, GameCube, 2002
-- **Clair Obscur: Expedition 33** - Bit Golem, PC, 2023
+- **Expedition 33** - Bit Golem, PC, 2023
 - **Age of Empires II** - Ensemble Studios, PC, 1999
 - **Aliens vs Predator** - Rebellion, PC, 1999
 - **Red Dead Redemption** - Rockstar San Diego, PS3/Xbox 360, 2010
@@ -218,6 +218,7 @@ These almost made the list, and on another day, some of them might have:
 - **Grand Theft Auto: Vice City** - Rockstar North, PS2, 2002
 - **Perfect Dark** - Rare, N64, 2000
 - **Max Payne** - Remedy Entertainment, PC, 2001
+- **Star Wars Jedi Knight II: Jedi Outcast** - Raven Software, PC, 2002
 
 ---
 
