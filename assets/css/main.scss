@@ -28,15 +28,28 @@
   margin: 10px;
 }
 
-/*
-  Pagination
-*/
-
-.pagination {
-  text-align: center;
+/* Make post titles readable on category pages ONLY (not homepage) */
+body:not(.home) .post-list .post-link {
+  color: #ffffff !important;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9) !important;
+  font-weight: 600 !important;
 }
-.pagination a {
-  text-decoration: none;
+
+body:not(.home) .post-list .post-link:hover {
+  color: #f0f0f0 !important;
+  text-decoration: underline !important;
+}
+
+/* Fix category page titles with background images */
+body:not(.home) .featured-posts h2,
+body:not(.home) article.featured-posts h2,
+body:not(.home) .featured-posts a h2 {
+  color: #ffffff !important;
+  text-shadow: 
+    2px 2px 8px rgba(0, 0, 0, 1),
+    -2px -2px 8px rgba(0, 0, 0, 1),
+    2px -2px 8px rgba(0, 0, 0, 1),
+    -2px 2px 8px rgba(0, 0, 0, 1) !important;
 }
 .pagination-button {
   color: #999;
