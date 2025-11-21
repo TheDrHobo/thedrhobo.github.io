@@ -115,8 +115,8 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Live at Carnegie Hall, New York - October 1963
 
-<a href="https://www.youtube.com/watch?v=cukkrbzk5D8">
-<img src="https://img.youtube.com/vi/cukkrbzk5D8/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
+<a href="https://www.youtube.com/watch?v=ltTuMG6muHo">
+<img src="https://img.youtube.com/vi/ltTuMG6muHo/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
