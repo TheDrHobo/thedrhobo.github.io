@@ -23,8 +23,9 @@ layout: default
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
   {% endif %}
-  </div>
+</div>
 {% include giscus_comments.html %}
+
 {% if site.hide_related_posts != true %}
   {% include related-posts.html %}
 {% endif %}
