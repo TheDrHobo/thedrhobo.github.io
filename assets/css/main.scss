@@ -27,3 +27,30 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
+/* Custom Styles for Favorite Quote Dropdown */
+
+/* Styles for the "💬 Favorite Quote" heading */
+details summary {
+  /* Make the font slightly bigger */
+  font-size: 1.1em;
+  /* Remove the default bullet/asterisk icon */
+  list-style: none;
+  /* Add padding to create space below the quote */
+  padding-bottom: 0.5em;
+  /* Change cursor to a hand on hover (requires CSS file) */
+  cursor: pointer;
+}
+
+/* Styles for the quote content itself */
+details blockquote {
+  /* Remove the default margin/indentation for blockquotes */
+  margin-left: 0;
+  margin-right: 0;
+  /* The quote is already italic thanks to your Markdown syntax: `*quote*` */
+  font-style: italic; 
+  /* Add space above to separate from the heading */
+  margin-top: 0.5em;
+  /* Remove any default blockquote styling */
+  border: none;
+  padding: 0;
+}
