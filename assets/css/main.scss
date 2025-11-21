@@ -46,3 +46,15 @@ article.post-list-item h3 a {
   color: #ffffff !important;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9) !important;
 }
+/* Override black link color on category pages */
+.featured-posts a h2,
+.featured-posts a h2:hover,
+article.featured-posts a h2 {
+  color: #ffffff !important;
+  text-shadow: 
+    2px 2px 4px rgba(0, 0, 0, 0.9),
+    -1px -1px 2px rgba(0, 0, 0, 0.9),
+    1px -1px 2px rgba(0, 0, 0, 0.9),
+    -1px 1px 2px rgba(0, 0, 0, 0.9) !important;
+  -webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.8);
+}
