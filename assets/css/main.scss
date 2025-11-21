@@ -31,10 +31,18 @@ $rss-color: #ff6600;
 /* Make post titles readable on category pages */
 .post-list .post-link {
   color: #ffffff !important;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9) !important;
+  font-weight: 600 !important;
 }
 
 .post-list .post-link:hover {
   color: #f0f0f0 !important;
-  text-decoration: underline;
+  text-decoration: underline !important;
+}
+
+/* Additional specificity for category page titles */
+.posts-category .post-link,
+article.post-list-item h3 a {
+  color: #ffffff !important;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9) !important;
 }
