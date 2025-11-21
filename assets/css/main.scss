@@ -27,3 +27,14 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
+
+/* Make post titles readable on category pages */
+.post-list .post-link {
+  color: #ffffff !important;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.post-list .post-link:hover {
+  color: #f0f0f0 !important;
+  text-decoration: underline;
+}
