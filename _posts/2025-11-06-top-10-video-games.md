@@ -2,7 +2,7 @@
 layout: post
 title: "Top 10 Video Games"
 author: "Dr Hobo"
-categories: gaming
+categories: videogames
 tags: [gaming, videogames, top10]
 image: gaming.jpg
 ---
