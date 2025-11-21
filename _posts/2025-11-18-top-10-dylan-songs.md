@@ -7,20 +7,18 @@ tags: [music, dylan, top10]
 image: Dylan.jpg
 ---
 
-These are the Dylan songs that have meant the most to me over the years. No ranking, just ten tracks that capture different sides of the man's genius. As of November 2025.
+Favourite Dylan Songs. As of November 2025.
 
 ---
 
 ## Mr. Tambourine Man
-<img src="{{ site.github.url }}/assets/img/Music/bringing_cover.jpg" alt="Bringing It All Back Home album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** Bringing It All Back Home  
 **Year:** 1965
 
 **🎵 Favorite Rendition:** Royal Albert Hall, London 1966
 
 <a href="https://www.youtube.com/watch?v=Ae29pHjtXIg">
-<img src="https://img.youtube.com/vi/Ae29pHjtXIg/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/Ae29pHjtXIg/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
@@ -28,15 +26,13 @@ These are the Dylan songs that have meant the most to me over the years. No rank
 ---
 
 ## Love Minus Zero/No Limit
-<img src="{{ site.github.url }}/assets/img/Music/bringing_cover.jpg" alt="Bringing It All Back Home album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** Bringing It All Back Home  
 **Year:** 1965
 
 **🎵 Favorite Rendition:** Manchester, England 1965
 
 <a href="https://www.youtube.com/watch?v=lCdF3KuRimg">
-<img src="https://img.youtube.com/vi/lCdF3KuRimg/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/lCdF3KuRimg/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
@@ -44,15 +40,13 @@ These are the Dylan songs that have meant the most to me over the years. No rank
 ---
 
 ## Don't Think Twice, It's All Right
-<img src="{{ site.github.url }}/assets/img/Music/dylan-freewheelin.jpg" alt="The Freewheelin' Bob Dylan album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** The Freewheelin' Bob Dylan  
 **Year:** 1963
 
 **🎵 Favorite Rendition:** Birmingham, England 1965
 
 <a href="https://www.youtube.com/watch?v=cukkrbzk5D8">
-<img src="https://img.youtube.com/vi/cukkrbzk5D8/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/cukkrbzk5D8/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
@@ -60,15 +54,13 @@ These are the Dylan songs that have meant the most to me over the years. No rank
 ---
 
 ## Desolation Row
-<img src="{{ site.github.url }}/assets/img/Music/dylan-highway61.jpg" alt="Highway 61 Revisited album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** Highway 61 Revisited  
 **Year:** 1965
 
 **🎵 Favorite Rendition:** Live at Sony Music Studios, New York 1994
 
 <a href="https://www.youtube.com/watch?v=is0PRUdcdZI">
-<img src="https://img.youtube.com/vi/is0PRUdcdZI/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/is0PRUdcdZI/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
@@ -76,15 +68,13 @@ These are the Dylan songs that have meant the most to me over the years. No rank
 ---
 
 ## License to Kill
-<img src="{{ site.github.url }}/assets/img/Music/dylan-infidels.jpg" alt="Infidels album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** Infidels  
 **Year:** 1983
 
 **🎵 Favorite Rendition:** Studio Version
 
 <a href="https://www.youtube.com/watch?v=HRrlFYg2QkI">
-<img src="https://img.youtube.com/vi/HRrlFYg2QkI/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/HRrlFYg2QkI/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
@@ -92,15 +82,13 @@ These are the Dylan songs that have meant the most to me over the years. No rank
 ---
 
 ## Shelter from the Storm
-<img src="{{ site.github.url }}/assets/img/Music/dylan-blood.jpg" alt="Blood on the Tracks album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** Blood on the Tracks  
 **Year:** 1975
 
 **🎵 Favorite Rendition:** Fort Collins 1976
 
 <a href="https://www.youtube.com/watch?v=12rUOLtbQDk">
-<img src="https://img.youtube.com/vi/12rUOLtbQDk/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/12rUOLtbQDk/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
@@ -108,15 +96,13 @@ These are the Dylan songs that have meant the most to me over the years. No rank
 ---
 
 ## Lily, Rosemary and the Jack of Hearts
-<img src="{{ site.github.url }}/assets/img/Music/dylan-blood.jpg" alt="Blood on the Tracks album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** Blood on the Tracks  
 **Year:** 1975
 
 **🎵 Favorite Rendition:** Studio Version
 
 <a href="https://www.youtube.com/watch?v=agdoeRpTfHg">
-<img src="https://img.youtube.com/vi/agdoeRpTfHg/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/agdoeRpTfHg/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
@@ -124,15 +110,13 @@ These are the Dylan songs that have meant the most to me over the years. No rank
 ---
 
 ## When the Ship Comes In
-<img src="{{ site.github.url }}/assets/img/Music/dylan-times.jpg" alt="The Times They Are a-Changin' album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** The Times They Are a-Changin'  
 **Year:** 1964
 
 **🎵 Favorite Rendition:** Live at Carnegie Hall, New York - October 1963
 
 <a href="https://www.youtube.com/watch?v=cukkrbzk5D8">
-<img src="https://img.youtube.com/vi/cukkrbzk5D8/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/cukkrbzk5D8/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
@@ -140,15 +124,13 @@ These are the Dylan songs that have meant the most to me over the years. No rank
 ---
 
 ## I Dreamed I Saw St. Augustine
-<img src="{{ site.github.url }}/assets/img/Music/dylan-john-wesley.jpg" alt="John Wesley Harding album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** John Wesley Harding  
 **Year:** 1967
 
 **🎵 Favorite Rendition:** Studio Version
 
 <a href="https://www.youtube.com/watch?v=dF-FY8rqA1I">
-<img src="https://img.youtube.com/vi/dF-FY8rqA1I/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/dF-FY8rqA1I/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
@@ -156,15 +138,13 @@ These are the Dylan songs that have meant the most to me over the years. No rank
 ---
 
 ## Is Your Love in Vain?
-<img src="{{ site.github.url }}/assets/img/Music/dylan-street-legal.jpg" alt="Street Legal album cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
-
 **Album:** Street Legal  
 **Year:** 1978
 
 **🎵 Favorite Rendition:** Budokan Version 1978
 
 <a href="https://www.youtube.com/watch?v=1pj-93HI9v4">
-<img src="https://img.youtube.com/vi/1pj-93HI9v4/0.jpg" alt="Watch on YouTube" style="max-width: 300px; border: 2px solid #ddd; margin-top: 0.5em;">
+<img src="https://img.youtube.com/vi/1pj-93HI9v4/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
 </a>
 
 <div style="clear: both;"></div>
