@@ -54,14 +54,3 @@
 .pagination-active:hover {
   background-color: #e0e0e0;
 }
-/* Fix white text ONLY on category listing pages (not homepage) */
-body:not(.home) .featured-posts h2,
-body:not(.home) article.featured-posts h2,
-body:not(.home) .featured-posts a h2 {
-  color: #ffffff !important;
-  text-shadow: 
-    2px 2px 8px rgba(0, 0, 0, 1),
-    -2px -2px 8px rgba(0, 0, 0, 1),
-    2px -2px 8px rgba(0, 0, 0, 1),
-    -2px 2px 8px rgba(0, 0, 0, 1) !important;
-}
