@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Dr Hobo like's reading, playing video games and occasionally and has been know to watch films. He also travels and enjoys playing cards or a new boardgame. He thought he'd find a corner of the internet to commemorate these interests. Comment on these musings if you'd like to, or dont.    
