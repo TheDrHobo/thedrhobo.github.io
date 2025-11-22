@@ -13,6 +13,7 @@ menu:
 - {name: 'Video Games', url: 'menu/videogames.html'}
 - {name: 'Board Games', url: 'menu/boardgames.html'}
 - {name: 'Travel', url: 'menu/travel.html'}
+- {name: 'About', url: 'menu/about.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
