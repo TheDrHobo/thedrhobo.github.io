@@ -7,13 +7,39 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
-title: Dr Hobo's Blog
-description: The official blog of Dr Hobo (thedrhobo), featuring top 10 lists on film, games, music, books, and more.
+# Site Settings
+title: Dr Hobo's Top 10 Lists
+description: Dr Hobo's personal blog featuring curated top 10 lists on films, books, music, video games, board games, and travel. Recommendations and reviews by DrHobo.
 author: Dr Hobo
 baseurl: ""
 url: "https://thedrhobo.github.io"
+
+# SEO Settings
+twitter:
+  username: drhobo
+  card: summary
+
+social:
+  name: Dr Hobo
+  links:
+    - https://thedrhobo.github.io
+    - https://www.instagram.com/iconicinkscapes/
+
+# Google verification (add this when you get your verification code)
+# google_site_verification: "your-verification-code-here"
+
+# Sitemap settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/default.jpg
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
