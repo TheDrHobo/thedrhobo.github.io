@@ -27,31 +27,35 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
-/* Custom Styles for Favorite Quote Dropdown - FINAL FIX */
+/* Custom Styles for Favorite Quote Dropdown - FINAL ATTEMPT */
 
-/* Styles for the "💬 Favorite Quote" heading */
+/* 1. Target the Summary Heading to remove the asterisk and set cursor */
 details summary {
-  /* *** FIX 1: Remove the Asterisk Icon (for all browsers) *** */
+  /* *** FIX A: Remove the Asterisk Icon (Strongest possible method) *** */
   list-style: none !important;
-  /* Removes the default arrow/star icon for Webkit browsers (Chrome, Safari) */
-  -webkit-details-marker: none; 
-  list-style-type: none;
+  list-style-type: none !important;
+  -webkit-details-marker: none !important; 
+  /* Must be set to display: block to ensure list-style: none works on all elements */
+  display: block !important; 
 
-  /* Other requested styles (should be working now) */
-  font-size: 1.1em; 
-  padding-bottom: 0.5em;
-  cursor: pointer;
+  /* Ensure requested styles are active */
+  font-size: 1.1em !important; 
+  cursor: pointer !important;
+  padding-bottom: 0.5em !important;
 }
 
-/* Styles for the quote content itself */
+/* 2. Target the Blockquote Content to ensure spacing is right */
 details blockquote {
-  /* *** FIX 2: Force Italics on the quote text *** */
-  font-style: italic !important; 
+  /* Ensures the default blockquote styling doesn't interfere */
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
 
-  /* Other requested styles (should be working now) */
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 0.5em;
-  border: none;
-  padding: 0;
+/* 3. Add space between the heading and the quote text */
+/* This targets the paragraph (<p>) inside the blockquote, a standard structure for Markdown quotes */
+details blockquote p {
+  margin-top: 0.5em !important; /* Adds line space */
+  /* The quote text is already italic due to the * in your markdown, so no need to force it here */
 }
