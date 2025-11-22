@@ -22,9 +22,7 @@ This is the game that defined what 3D adventure games could be. A technical achi
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *Seeing the sunset over hyrule castle and having night fall....the realisation that this game had a dynamic day and night system had me in wonder; i also remember feeling immensly proud of myself when, at about 12 years old, I finished the final ganon fight*
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">Seeing the sunset over hyrule castle and having night fall....the realisation that this game had a dynamic day and night system had me in wonder; i also remember feeling immensly proud of myself when, at about 12 years old, I finished the final ganon fight</blockquote>
 </details>
 
 ---
@@ -36,13 +34,11 @@ This is the game that defined what 3D adventure games could be. A technical achi
 **Developer:** Valve  
 **Year:** 1998
 
-Half-Life changed everything about how we tell stories in first-person shooters. No cutscenes, no pulling control away from the player - just you, Gordon Freeman, living through a disaster in real-time. The opening tram ride through Black Mesa is still one of gaming's best introductions. Valve understood that environmental storytelling and emergent gameplay could be more powerful than any scripted sequence. The AI was genuinely threatening, with marines flanking you and working as squads. Every chapter felt different, from the claustrophobic tunnels to the alien world of Xen. Revolutionary doesn't even begin to cover it.
+Half-Life changed everything about how we tell stories in first-person shooters. No cutscenes, no pulling control away from the player - just you, Gordon Freeman, living through a disaster in real-time. Indeed, that opening tram ride through Black Mesa is still one of gaming's best introductions. At the time too, AI was genuinely threatening, with marines flanking you and working as squads. Every chapter felt different, from the claustrophobic tunnels to the alien world of Xen. Revolutionary doesn't even begin to cover it.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *"Forget about Freeman!" The moment when you realize the military isn't there to rescue you - they're there to silence everyone, including you. That shift from "we're saved" to "we're being hunted" was chilling. Also, finally getting outside after being trapped so long to navigate down that cliff also sticks out*
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">"Forget about Freeman!" The moment when you realize the military isn't there to rescue you - they're there to silence everyone, including you. That shift from "we're saved" to "we're being hunted" was chilling. Also, that tentacle sound based monster forcing you creep around! epic. </blockquote>
 </details>
 
 ---
@@ -58,9 +54,7 @@ Simply iconic. Rare took a movie license - something usually synonymous with dis
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *The first time I saw a guard on the opening level actually react to where you shot them as a 10 year is forever etched into my mind. I could not beleive that realism could exist in a video game  -a few years later, when i was allowed to actually play the game, iu sed to love the 2nd level 'Facility', sneaking through the ventilation system above the bathroom stalls, dropping down behind an unsuspecting guard...*
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">The first time I saw a guard on the opening level actually react to where you shot them as a 10 year is forever etched into my mind. I could not beleive that realism could exist in a video game  -a few years later, when i was allowed to actually play the game, iu sed to love the 2nd level 'Facility', sneaking through the ventilation system above the bathroom stalls, dropping down behind an unsuspecting guard...</blockquote>
 </details>
 
 ---
@@ -76,9 +70,7 @@ The Last of Us hit differently. Naughty Dog created something that transcended t
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *Two moments define this game for me: First, that initial stealth kill where you grab someone and brutally smash their head into the scenery - the visceral impact, the sound design, the weight of it made me go "wow, this is serious." Second, the giraffes in Salt Lake City. After hours of violence and darkness, just standing there watching them peacefully graze among the ruins, nature reclaiming the cities - it was breathtaking. A moment of pure tranquility that made everything feel worth it.*
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">Two moments define this game for me: First, that initial stealth kill where you grab someone and brutally smash their head into the scenery - the visceral impact, the sound design, the weight of it made me go "wow, this is serious." Second, the giraffes in Salt Lake City. After hours of violence and darkness, just standing there watching them peacefully graze among the ruins, nature reclaiming the cities - it was breathtaking. A moment of pure tranquility that made everything feel worth it.</blockquote>
 </details>
 
 ---
@@ -94,9 +86,7 @@ Final Fantasy IV is really the first JRPG that knew waht is was doing. It realis
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *It has to be Palom and Porom's sacrifice - still not got over it 20 years later*
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">It has to be Palom and Porom's sacrifice - still not got over it 20 years later</blockquote>
 </details>
 
 ---
@@ -112,9 +102,7 @@ FTL is brutal, unforgiving, and absolutely brilliant. It's a roguelike space str
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *Finally reaching the final boss flagship after dozens of failed runs, with a ship barely holding together and a skeleton crew. Every system is damaged, you're out of missiles, and your shield is down to one layer. But somehow, through desperate micro-management and sheer luck, you win. The relief is overwhelming*
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">Finally reaching the final boss flagship after dozens of failed runs, with a ship barely holding together and a skeleton crew. Every system is damaged, you're out of missiles, and your shield is down to one layer. But somehow, through desperate micro-management and sheer luck, you win. The relief is overwhelming</blockquote>
 </details>
 
 ---
@@ -130,9 +118,7 @@ BioWare took Star Wars to a place the movies never could - 4,000 years before th
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *The reveal on the Leviathan - that moment when everything clicks into place and you realize what you are. The game had been dropping hints throughout, but actually experiencing that twist was staggering. It recontextualized the entire journey and made you question every choice you'd made. Brilliant narrative design that only works in an interactive medium.*
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">The reveal on the Leviathan - that moment when everything clicks into place and you realize what you are. The game had been dropping hints throughout, but actually experiencing that twist was staggering. It recontextualized the entire journey and made you question every choice you'd made. Brilliant narrative design that only works in an interactive medium.</blockquote>
 </details>
 
 ---
@@ -148,9 +134,7 @@ Tim Schafer's masterpiece - a film noir detective story set in the Land of the D
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *The seconed chapter really stands out in my mind to this day - the syle and maturity of themes, the swelling jazz music, and how the narrative threads develooped and came together. The first game that me realise that 'video games' were an art form on the level of film and books.* 
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">The seconed chapter really stands out in my mind to this day - the syle and maturity of themes, the swelling jazz music, and how the narrative threads develooped and came together. The first game that me realise that 'video games' were an art form on the level of film and books.</blockquote>
 </details>
 
 ---
@@ -166,9 +150,7 @@ Melee was lightning in a bottle - a party game that accidentally became one of t
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *Landing a fully charged Falcon Punch in a heated four-player match - the slow wind-up, the desperate hope that it connects, the explosive "YES!" when it sends someone flying off the screen. Or unlocking Mewtwo after hours of gameplay and discovering this floaty, weird, powerful character. Every unlock felt like Christmas morning.*
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">Landing a fully charged Falcon Punch in a heated four-player match - the slow wind-up, the desperate hope that it connects, the explosive "YES!" when it sends someone flying off the screen. Or unlocking Mewtwo after hours of gameplay and discovering this floaty, weird, powerful character. Every unlock felt like Christmas morning.</blockquote>
 </details>
 
 ---
@@ -184,9 +166,7 @@ Red Alert 2 is the most fun I've ever had with an RTS. Westwood fully embraced t
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-
-> *The Soviet campaign mission where you use mind-controlled squids to ruin the allied forces navy. It perfectly encapsulated Red Alert's joyous absurdity - historically themed strategy married to complete B-movie madness. The opening cut scene too, with Soviet's premier gleeful "why Mr President, whatever do you mean...?" followed by that pumping soundtrack*
-
+<blockquote style="font-style: italic; margin-top: 0.5em;">The Soviet campaign mission where you use mind-controlled squids to ruin the allied forces navy. It perfectly encapsulated Red Alert's joyous absurdity - historically themed strategy married to complete B-movie madness. The opening cut scene too, with Soviet's premier gleeful "why Mr President, whatever do you mean...?" followed by that pumping soundtrack</blockquote>
 </details>
 
 ---
