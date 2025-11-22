@@ -54,7 +54,7 @@ Simply iconic. Rare took a movie license - something usually synonymous with dis
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">The first time I saw a guard on the opening level actually react to where you shot them as a 10 year is forever etched into my mind. I could not beleive that realism could exist in a video game  -a few years later, when i was allowed to actually play the game, iu sed to love the 2nd level 'Facility', sneaking through the ventilation system above the bathroom stalls, dropping down behind an unsuspecting guard...</blockquote>
+<blockquote style="font-style: italic; margin-top: 0.5em;">The first time I saw a guard on the opening level actually react to where you shot them as a 10 year is forever etched into my mind. I could not beleive that realism could exist in a video game  -a few years later, when i was allowed to actually play the game, I used to love the 2nd level 'Facility', sneaking through the ventilation system above the bathroom stalls, dropping down behind an unsuspecting guard...</blockquote>
 </details>
 
 ---
@@ -114,7 +114,7 @@ FTL is brutal, unforgiving, and absolutely brilliant. It's a roguelike space str
 **Developer:** BioWare  
 **Year:** 2003
 
-BioWare took Star Wars to a place the movies never could - 4,000 years before the films, where they had freedom to tell their own story. And what a story. KOTOR delivered one of gaming's best plot twists, created memorable companions (HK-47's homicidal commentary alone is worth the price), and let you genuinely role-play as Jedi or Sith. The morality system had weight, the lightsaber combat felt powerful despite the D&D-style mechanics underneath, and exploring the Star Wars universe without movie constraints was liberating. Taris, Dantooine, Tatooine, Kashyyyk - each planet felt distinct and alive. It's the best Star Wars story outside the original trilogy, and I'll die on that hill.
+BioWare took Star Wars to a place the movies never could - 4,000 years before the films, where they had freedom to tell their own story. And what a story. KOTOR delivered one of gaming's best plot twists, created memorable companions (HK-47's homicidal commentary alone is worth the price), and let you genuinely role-play as Jedi or Sith. The morality system had weight, the lightsaber combat felt powerful despite the D&D-style mechanics underneath, and exploring the Star Wars universe without movie constraints was liberating. It's the best Star Wars story outside the original trilogy.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
@@ -130,7 +130,7 @@ BioWare took Star Wars to a place the movies never could - 4,000 years before th
 **Developer:** LucasArts  
 **Year:** 1998
 
-Tim Schafer's masterpiece - a film noir detective story set in the Land of the Dead with Mexican Day of the Dead aesthetics and Art Deco design. It shouldn't work, but it's one of gaming's most original and memorable experiences. Manny Calavera's four-year journey through the underworld is genuinely gripping, filled with conspiracy, romance, and betrayal. The writing is razor-sharp, the characters unforgettable, and the world-building is immaculate. Whilst the puzzles were sometimes obtuse the atmosphere, story, and sheer creativity made it essential. It was criminally underappreciated at launch, but history has rightfully recognized it as one of the greatest adventure games ever made.
+Tim Schafer's masterpiece - a film noir detective story set in the Land of the Dead with Mexican Day of the Dead aesthetics and Art Deco design. It shouldn't work, but it's one of gaming's most original and memorable experiences. Manny Calavera's four-year journey through the underworld is genuinely gripping, filled with conspiracy, romance, and betrayal. The writing is razor-sharp, the characters unforgettable, and the world-building is immaculate. Whilst the puzzles were sometimes obtuse the atmosphere, story, and sheer creativity made it essential. It was criminally underappreciated at launch, but history has rightfully recognised it as one of the greatest adventure games ever made.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
@@ -146,7 +146,7 @@ Tim Schafer's masterpiece - a film noir detective story set in the Land of the D
 **Developer:** HAL Laboratory  
 **Year:** 2001
 
-Melee was lightning in a bottle - a party game that accidentally became one of the most technical fighting games ever made. Nintendo's all-stars brawling on increasingly chaotic stages was fun enough, but the advanced techniques (wavedashing, L-canceling, directional influence) created a skill ceiling so high that people are still mastering it twenty years later. The roster was perfect, the stages were memorable, and the speed was just right - faster and tighter than the original, with more weight than later entries. It dominated competitive gaming for decades and still has a passionate scene. Four-player free-for-alls with items on high were chaos. One-on-one Fox dittos on Final Destination were intense technical showcases. Melee accommodated both and excelled at everything.
+Melee was lightning in a bottle - a party game that accidentally became one of the most technical fighting games ever made. Nintendo's all-stars brawling on increasingly chaotic stages was fun enough, but the advanced techniques (wavedashing, L-canceling, directional influence) created a skill ceiling so high that people are still mastering it twenty years later. The roster was perfect, the stages were memorable, and the speed was just right - faster and tighter than the original, with more weight than later entries. It dominated competitive gaming for decades and still has a passionate scene. Four-player free-for-alls with items on high were chaos. One-on-one Fox dittos on Final Destination were intense technical showcases. Melee accommodated both and excelled at everything. It should be a Switch 2 remaster.....yet Nintendo seems to despise it? 
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
