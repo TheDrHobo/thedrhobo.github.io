@@ -27,30 +27,31 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
-/* Custom Styles for Favorite Quote Dropdown */
+/* Custom Styles for Favorite Quote Dropdown - FINAL FIX */
 
 /* Styles for the "💬 Favorite Quote" heading */
 details summary {
-  /* Make the font slightly bigger */
-  font-size: 1.1em;
-  /* Remove the default bullet/asterisk icon */
-  list-style: none;
-  /* Add padding to create space below the quote */
+  /* *** FIX 1: Remove the Asterisk Icon (for all browsers) *** */
+  list-style: none !important;
+  /* Removes the default arrow/star icon for Webkit browsers (Chrome, Safari) */
+  -webkit-details-marker: none; 
+  list-style-type: none;
+
+  /* Other requested styles (should be working now) */
+  font-size: 1.1em; 
   padding-bottom: 0.5em;
-  /* Change cursor to a hand on hover (requires CSS file) */
   cursor: pointer;
 }
 
 /* Styles for the quote content itself */
 details blockquote {
-  /* Remove the default margin/indentation for blockquotes */
+  /* *** FIX 2: Force Italics on the quote text *** */
+  font-style: italic !important; 
+
+  /* Other requested styles (should be working now) */
   margin-left: 0;
   margin-right: 0;
-  /* The quote is already italic thanks to your Markdown syntax: `*quote*` */
-  font-style: italic; 
-  /* Add space above to separate from the heading */
   margin-top: 0.5em;
-  /* Remove any default blockquote styling */
   border: none;
   padding: 0;
 }
