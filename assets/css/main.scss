@@ -27,33 +27,34 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
-/* Custom Styles for Favorite Quote Dropdown - THE FINAL OVERRIDE */
+/* Custom Styles for Favorite Quote Dropdown - FINAL GUARANTEE FIX */
 
 /* 1. Target the Summary Heading (Fixes asterisk, cursor, spacing, size) */
-/* The asterisk fix is often the hardest and requires max specificity */
 details summary {
   list-style: none !important;
   list-style-type: none !important;
   -webkit-details-marker: none !important; 
-  display: block !important; /* Helps ensure list-style: none works */
+  display: block !important; 
 
-  /* Other requested styles (already winning) */
   font-size: 1.1em !important; 
-  font-weight: bold !important; /* Keeps the bold from your Markdown ** */
+  font-weight: bold !important; 
   cursor: pointer !important;
   padding-bottom: 0.5em !important;
 }
 
 /* 2. Target the QUOTE TEXT (The Italics Fix) */
-/* By prepending 'article' we make this rule super specific, ensuring it wins. */
-article details blockquote p {
-  /* THIS IS THE CRITICAL FIX FOR ITALICS */
+/* This targets the <em> tag created by your Markdown *Quote*, ensuring it's italic. */
+article details blockquote em {
+  /* THIS IS THE FINAL ITALICS OVERRIDE */
   font-style: italic !important; 
-  /* Also fixing the spacing one last time */
-  margin-top: 0.5em !important;
 }
 
-/* 3. The Blockquote Container (Spacing cleanup) */
+/* 3. The Paragraph container for spacing */
+article details blockquote p {
+  margin-top: 0.5em !important; /* Adds line space */
+}
+
+/* 4. The Blockquote Container (Spacing cleanup) */
 article details blockquote {
   margin-left: 0 !important;
   margin-right: 0 !important;
