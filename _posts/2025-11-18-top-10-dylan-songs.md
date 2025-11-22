@@ -17,9 +17,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Royal Albert Hall, London 1966
 
-<a href="https://www.youtube.com/watch?v=Ae29pHjtXIg">
-<img src="https://img.youtube.com/vi/Ae29pHjtXIg/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Ae29pHjtXIg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
@@ -31,9 +31,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Manchester, England 1965
 
-<a href="https://www.youtube.com/watch?v=lCdF3KuRimg">
-<img src="https://img.youtube.com/vi/lCdF3KuRimg/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/lCdF3KuRimg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
@@ -45,9 +45,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Birmingham, England 1965
 
-<a href="https://www.youtube.com/watch?v=cukkrbzk5D8">
-<img src="https://img.youtube.com/vi/cukkrbzk5D8/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/cukkrbzk5D8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
@@ -59,9 +59,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Live at Sony Music Studios, New York 1994
 
-<a href="https://www.youtube.com/watch?v=is0PRUdcdZI">
-<img src="https://img.youtube.com/vi/is0PRUdcdZI/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/is0PRUdcdZI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
@@ -73,9 +73,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Studio Version
 
-<a href="https://www.youtube.com/watch?v=HRrlFYg2QkI">
-<img src="https://img.youtube.com/vi/HRrlFYg2QkI/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/HRrlFYg2QkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
@@ -87,9 +87,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Fort Collins 1976
 
-<a href="https://www.youtube.com/watch?v=12rUOLtbQDk">
-<img src="https://img.youtube.com/vi/12rUOLtbQDk/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/12rUOLtbQDk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
@@ -101,9 +101,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Studio Version
 
-<a href="https://www.youtube.com/watch?v=agdoeRpTfHg">
-<img src="https://img.youtube.com/vi/agdoeRpTfHg/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/agdoeRpTfHg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
@@ -115,9 +115,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Live at Carnegie Hall, New York - October 1963
 
-<a href="https://www.youtube.com/watch?v=ltTuMG6muHo">
-<img src="https://img.youtube.com/vi/ltTuMG6muHo/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ltTuMG6muHo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
@@ -129,9 +129,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Studio Version
 
-<a href="https://www.youtube.com/watch?v=dF-FY8rqA1I">
-<img src="https://img.youtube.com/vi/dF-FY8rqA1I/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/dF-FY8rqA1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
@@ -143,9 +143,9 @@ Favourite Dylan Songs. As of November 2025.
 
 **🎵 Favorite Rendition:** Budokan Version 1978
 
-<a href="https://www.youtube.com/watch?v=1pj-93HI9v4">
-<img src="https://img.youtube.com/vi/1pj-93HI9v4/0.jpg" alt="Watch on YouTube" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain; border: 2px solid #ddd;">
-</a>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/1pj-93HI9v4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div style="clear: both;"></div>
 
