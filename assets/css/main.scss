@@ -27,35 +27,36 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
-/* Custom Styles for Favorite Quote Dropdown - FINAL ATTEMPT */
+/* Custom Styles for Favorite Quote Dropdown - THE FINAL OVERRIDE */
 
-/* 1. Target the Summary Heading to remove the asterisk and set cursor */
+/* 1. Target the Summary Heading (Fixes asterisk, cursor, spacing, size) */
+/* The asterisk fix is often the hardest and requires max specificity */
 details summary {
-  /* *** FIX A: Remove the Asterisk Icon (Strongest possible method) *** */
   list-style: none !important;
   list-style-type: none !important;
   -webkit-details-marker: none !important; 
-  /* Must be set to display: block to ensure list-style: none works on all elements */
-  display: block !important; 
+  display: block !important; /* Helps ensure list-style: none works */
 
-  /* Ensure requested styles are active */
+  /* Other requested styles (already winning) */
   font-size: 1.1em !important; 
+  font-weight: bold !important; /* Keeps the bold from your Markdown ** */
   cursor: pointer !important;
   padding-bottom: 0.5em !important;
 }
 
-/* 2. Target the Blockquote Content to ensure spacing is right */
-details blockquote {
-  /* Ensures the default blockquote styling doesn't interfere */
+/* 2. Target the QUOTE TEXT (The Italics Fix) */
+/* By prepending 'article' we make this rule super specific, ensuring it wins. */
+article details blockquote p {
+  /* THIS IS THE CRITICAL FIX FOR ITALICS */
+  font-style: italic !important; 
+  /* Also fixing the spacing one last time */
+  margin-top: 0.5em !important;
+}
+
+/* 3. The Blockquote Container (Spacing cleanup) */
+article details blockquote {
   margin-left: 0 !important;
   margin-right: 0 !important;
   padding: 0 !important;
   border: none !important;
-}
-
-/* 3. Add space between the heading and the quote text */
-/* This targets the paragraph (<p>) inside the blockquote, a standard structure for Markdown quotes */
-details blockquote p {
-  margin-top: 0.5em !important; /* Adds line space */
-  /* The quote text is already italic due to the * in your markdown, so no need to force it here */
 }
