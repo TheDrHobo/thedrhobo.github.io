@@ -14,7 +14,7 @@ plugins:
   - jekyll-seo-tag
 
 # Site Settings
-title: Dr Hobo's Top 10 Lists
+title: The Ranking Hobo
 description: Dr Hobo's personal blog featuring curated top 10 lists on films, books, music, video games, board games, and travel. Recommendations and reviews by DrHobo.
 author: Dr Hobo
 baseurl: ""
