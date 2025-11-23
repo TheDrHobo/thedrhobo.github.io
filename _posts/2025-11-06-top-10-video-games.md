@@ -22,7 +22,7 @@ This is the game that defined what 3D adventure games could be. A technical achi
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">Seeing the sunset over hyrule castle and having night fall....the realisation that this game had a dynamic day and night system had me in wonder; i also remember feeling immensly proud of myself when, at about 12 years old, I finished the final ganon fight</blockquote>
+<blockquote style="font-style: italic; margin-top: 0.5em;">Seeing the sunset over hyrule castle and having night fall....the realisation that this game had a dynamic day and night system had me in wonder; I also remember feeling immensly proud of myself when, at about 12 years old, I finished the final ganon fight</blockquote>
 </details>
 
 ---
@@ -38,7 +38,7 @@ Half-Life changed everything about how we tell stories in first-person shooters.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">"Forget about Freeman!" The moment when you realize the military isn't there to rescue you - they're there to silence everyone, including you. That shift from "we're saved" to "we're being hunted" was chilling. Also, that tentacle sound based monster forcing you creep around! epic. </blockquote>
+<blockquote style="font-style: italic; margin-top: 0.5em;">"Forget about Freeman!" The moment when you realize the military isn't there to rescue you - they're there to silence everyone, including you. That shift from "we're saved" to "we're being hunted" was chilling. Also, that tentacle sound based monster forcing you creep around! A shout out to the expansions too, loved 'Opposing Force'</blockquote>
 </details>
 
 ---
@@ -50,11 +50,11 @@ Half-Life changed everything about how we tell stories in first-person shooters.
 **Developer:** Rare  
 **Year:** 1997
 
-Simply iconic. Rare took a movie license - something usually synonymous with disaster - and created one of the N64's defining experiences. The campaign was brilliant, with multiple objectives depending on difficulty and levels that encouraged exploration and stealth. But the multiplayer? That's where friendships died. Four-player split-screen battles with proximity mines in the Facility, Slappers Only in the Complex, License to Kill mode making everyone a glass cannon - these became the stuff of legend. Oddjob was banned in my house for being too short. It's the game that made local multiplayer FPS a phenomenon on consoles.
+Simply iconic. Rare took a movie license - something usually synonymous with disaster - and created one of the N64's defining experiences. The campaign was brilliant, with multiple objectives depending on difficulty and levels that encouraged exploration and stealth. But the multiplayer? That's where friendships died. Four-player split-screen battles with proximity mines in the Facility, Slappers Only in the Complex, License to Kill mode making everyone a glass cannon - these became the stuff of legend. Oddjob was banned in my house for being too short. It's the game that made local multiplayer FPS a thing.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">The first time I saw a guard on the opening level actually react to where you shot them as a 10 year is forever etched into my mind. I could not beleive that realism could exist in a video game  -a few years later, when i was allowed to actually play the game, I used to love the 2nd level 'Facility', sneaking through the ventilation system above the bathroom stalls, dropping down behind an unsuspecting guard...</blockquote>
+<blockquote style="font-style: italic; margin-top: 0.5em;">The first time I saw a guard on the opening level actually react to where you shot them as a 10 year old is forever etched into my mind. I could not beleive that realism could exist in a video game  -a few years later, when i was allowed to actually play the game, I used to love the 2nd level 'Facility', sneaking through the ventilation system above the bathroom stalls, dropping down behind an unsuspecting guard...</blockquote>
 </details>
 
 ---
@@ -82,7 +82,7 @@ The Last of Us hit differently. Naughty Dog created something that transcended t
 **Developer:** Square  
 **Year:** 1991
 
-Final Fantasy IV is really the first JRPG that knew waht is was doing. It realised that for a JRPG to be successful, a robust battle system in a cool setting wasn't enougth, the crucial ingrediant is story. And FF4 told one with real emotional weight - betrayal, redemption, sacrifice. Indeed, Cecil's journey from Dark Knight to Paladin wasn't just a gameplay gimmick; it was character development that meant something. The cast rotated in and out, which was devastating when characters you'd grown attached to left. Tellah's revenge, Palom and Porom's sacrifice (made me cry), the trip to the moon - Square was swinging for the fences narratively. Not to mention Nobuo Uematsu's stunning soundtrack.
+Final Fantasy IV is really the first JRPG that knew what is was doing. It realised that for a JRPG to be successful, a robust battle system in a cool setting wasn't enougth, the crucial ingrediant is story. And FF4 told one with real emotional weight - betrayal, redemption, sacrifice. Indeed, Cecil's journey from Dark Knight to Paladin wasn't just a gameplay gimmick; it was character development that meant something. The cast rotated in and out, which was devastating when characters you'd grown attached to left. Tellah's revenge, Palom and Porom's sacrifice (made me cry), the trip to the moon. Not to mention the stunning soundtrack.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
@@ -98,7 +98,7 @@ Final Fantasy IV is really the first JRPG that knew waht is was doing. It realis
 **Developer:** Subset Games  
 **Year:** 2012
 
-FTL is brutal, unforgiving, and absolutely brilliant. It's a roguelike space strategy game that creates emergent stories through its systems. Every run is different, every decision matters, and you will fail - repeatedly. But those failures create the best stories. Your Mantis boarding party gets stuck on an enemy ship as it explodes. Your weapons malfunction during a crucial battle. A solar flare kills half your crew. The game's genius is in how it makes you care about your randomly generated crew members within minutes, then rips them away. The pause-and-plan combat is tense, the ship customization is deep, and the soundtrack is hauntingly perfect. It's "just one more run" incarnate.
+FTL is brutal, unforgiving, and absolutely brilliant. It's a roguelike space strategy game that creates emergent stories through its systems. Every run is different, every decision matters, and you will fail - repeatedly. But those failures create the best stories. Your Mantis boarding party gets stuck on an enemy ship as it explodes. Your weapons malfunction during a crucial battle. A solar flare kills half your crew. The game's genius is in how it makes you care about your randomly generated crew members within minutes, then rips them away. The pause-and-plan combat is tense, the ship customisation is deep, and the soundtrack is hauntingly perfect. It's "just one more run" incarnate.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
@@ -130,11 +130,11 @@ BioWare took Star Wars to a place the movies never could - 4,000 years before th
 **Developer:** LucasArts  
 **Year:** 1998
 
-Tim Schafer's masterpiece - a film noir detective story set in the Land of the Dead with Mexican Day of the Dead aesthetics and Art Deco design. It shouldn't work, but it's one of gaming's most original and memorable experiences. Manny Calavera's four-year journey through the underworld is genuinely gripping, filled with conspiracy, romance, and betrayal. The writing is razor-sharp, the characters unforgettable, and the world-building is immaculate. Whilst the puzzles were sometimes obtuse the atmosphere, story, and sheer creativity made it essential. It was criminally underappreciated at launch, but history has rightfully recognised it as one of the greatest adventure games ever made.
+A film noir detective story set in the Land of the Dead with Mexican Day of the Dead aesthetics and Art Deco design. It shouldn't work, but it's one of gaming's most original and memorable experiences. Manny Calavera's four-year journey through the underworld is gripping. The writing is razor-sharp, with intriguing world-building. Whilst the puzzles were sometimes annoyingly obtuse (I hated looking up the guide), the atmosphere, story, and sheer creativity made it essential. It was criminally underappreciated at launch, but history has rightfully recognised it as one of the greatest adventure games ever made.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">The seconed chapter really stands out in my mind to this day - the syle and maturity of themes, the swelling jazz music, and how the narrative threads develooped and came together. The first game that me realise that 'video games' were an art form on the level of film and books.</blockquote>
+<blockquote style="font-style: italic; margin-top: 0.5em;">The seconed Casino chapter really stands out in my mind to this day - the syle and maturity of themes, the swelling jazz music, and how the narrative threads developed and came together. Probably the the first game that me realise that 'video games' were an art form on the level of film and books.</blockquote>
 </details>
 
 ---
@@ -150,7 +150,7 @@ Melee was lightning in a bottle - a party game that accidentally became one of t
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">Landing a fully charged Falcon Punch in a heated four-player match - the slow wind-up, the desperate hope that it connects, the explosive "YES!" when it sends someone flying off the screen. Or unlocking Mewtwo after hours of gameplay and discovering this floaty, weird, powerful character. Every unlock felt like Christmas morning.</blockquote>
+<blockquote style="font-style: italic; margin-top: 0.5em;">Landing a fully charged Falcon Punch in a heated four-player match - the slow wind-up, the desperate hope that it connects, the explosive "YES!" when it sends someone flying off the screen. Or unlocking Mewtwo after hours of gameplay and discovering this floaty, weird, powerful character. I remember every unlock feeling like a Christmas morning.</blockquote>
 </details>
 
 ---
@@ -162,7 +162,7 @@ Melee was lightning in a bottle - a party game that accidentally became one of t
 **Developer:** Westwood Studios  
 **Year:** 2000
 
-Red Alert 2 is the most fun I've ever had with an RTS. Westwood fully embraced the camp - Soviet invasion of America with psychic commanders, Tesla coils, and Kirov airships - and created something gloriously absurd yet mechanically solid. The two campaigns were both ridiculous and engaging, with live-action cutscenes that knew exactly how silly they were. The Yuri's Revenge expansion made it even better. It was accessible enough for casual players but deep enough for competitive play. Peak RTS design wrapped in Cold War absurdity.
+Red Alert 2 is the most fun I've ever had with an RTS. Westwood fully embraced the camp: Soviet invasion of America with psychic commanders, Tesla coils, and Kirov airships; and created something gloriously absurd yet mechanically solid. The two campaigns were both ridiculous and engaging, with live-action cutscenes that knew exactly how silly they were. The Yuri's Revenge expansion made it even better. It was accessible enough for casual players but deep enough for competitive play. Peak RTS design wrapped in Cold War absurdity.
 
 <details>
 <summary><strong>🎮 Favorite Moment</strong></summary>
@@ -199,6 +199,7 @@ These almost made the list, and on another day, some of them might have:
 - **Perfect Dark** - Rare, N64, 2000
 - **Max Payne** - Remedy Entertainment, PC, 2001
 - **Star Wars Jedi Knight II: Jedi Outcast** - Raven Software, PC, 2002
+- **Advance Wars** - Intelligent Systems, GBA, 2001
 
 ---
 
