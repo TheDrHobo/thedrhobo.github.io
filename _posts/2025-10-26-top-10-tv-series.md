@@ -7,7 +7,7 @@ tags: [tv, television, series, top10]
 image: TV.jpg
 ---
 
-These are 10 TV series (or specific seasons) that have stuck with me over the years. No ranking - just shows I love and think are worth your time. As of October 2025.
+These are 10 TV series (or specific seasons) that have stuck with me over the years. No ranking - just shows I love and think are worth your time. As of November 2025.
 
 **Rule:** Only one season per show - I'm picking the season that hit hardest... unless it makes sense to group them!
 
@@ -196,7 +196,7 @@ Another nostalgia choice. I associate this one with my younger sister – during
 **Network:** BBC Two  
 **Year:** 2001-2003
 
-Ricky Gervais created David Brent and changed comedy forever. The cringe is unbearable in the best way - you watch through your fingers, but you can't look away. Unlike the US version, which became warm and fuzzy, this stays brutal, awkward, and painfully real. Only two seasons plus specials, but every episode lands. The documentary style, the uncomfortable silences, the truth about office life - it's perfection.
+The cringe is unbearable....but in the best way; you watch through your fingers, but you can't look away. It is such a unique viewing experience, especially the first time you see it - nothing like at all (except maybe 'This Country'). Unlike the US Office version, which became warm and fuzzy, this stays brutal, awkward, and painfully real. Only two seasons plus specials, but every episode lands. The documentary style, the uncomfortable silences, the truth about office life - comedy excellence.
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
