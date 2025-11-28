@@ -16,7 +16,7 @@ This is the first in a series of five posts about my favourite places visited wh
 **Last visit:** December 2017  
 **Vibe:** Outdoor adventure playground meets backpacker social hub
 
-<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/xingping.jpg" alt="Xing Ping karst landscape" style="float: right; margin: 0 0 1em 1em; max-width: 600px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/xingping.jpg" alt="Xing Ping karst landscape" title="Xing Ping - Photo by Dr Hobo on Dec 2017" style="float: right; margin: 0 0 1em 1em; max-width: 600px; width: 100%;">
 
 I've spent quite some time in China and it's the only place I've returned to multiple times (four visits!). My first trip was in October 2010, and every time since, it has slowly become more and more 'over-developed'. That said, I would still recommend a visit - there's a reason it's evolved from a backpacker destination to a more mainstream tourist draw. The surrounding karst landscape is simply exquisite: 'magical' and 'fairytale' only do so much justice in capturing the views.
 
@@ -24,7 +24,7 @@ Yangshuo itself is a bustling hub with West Street as the main tourist spot, fil
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/local.jpg" alt="Local woman sewing" style="float: left; margin: 0 1em 1em 0; max-width: 400px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/local.jpg" alt="Local woman sewing" title="Photo by Adam Crase on October 2010" style="float: right; margin: 0 0 1em 1em; max-width: 400px; width: 100%;">
 
 To escape the crowds on my last visit, we went to the smaller Xing Ping, Yangshuo's neighbouring village, which if anything was even more beautiful. It may become just as hectic as Yangshuo though, as that's where the new high-speed rail station is located. I'd be keen to venture further away from Yangshuo in any future visits and see how the climbing scene has developed - it was only just emerging as a pastime for locals when I first visited.
 
@@ -36,7 +36,7 @@ To escape the crowds on my last visit, we went to the smaller Xing Ping, Yangshu
 
 ## Diary Extract - October 2010, Golden Week
 
-<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/rooftop.jpg" alt="View of Yangshuo from rooftop bar" style="float: right; margin: 0 0 1em 1em; max-width: 500px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/rooftop.jpg" alt="View of Yangshuo from rooftop bar" title="Rooftop bar views over Yangshuo's karst peaks - Photo by Adam Crase on October 2010" style="float: right; margin: 0 0 1em 1em; max-width: 500px; width: 100%;">
 
 Woke up at Monkey Jane's with a headache that felt like karmic punishment for last night's rooftop beer pong session. Our room was essentially one giant mattress with about five of us sprawled across it like some bizarre budget hostel experiment - no dividers, no personal space, just one communal sleeping surface. We'd come down from Guangzhou during Golden Week, one of China's major national holidays where the entire country seems to take a week off simultaneously and descend upon every tourist spot imaginable. As English teachers, we'd joined the masses heading out of the cities, though we were hoping Yangshuo's backpacker scene might be slightly less manic than Beijing or Shanghai.
 
@@ -44,7 +44,7 @@ Eventually we roused ourselves and stumbled down to McDonald's just off the titu
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/bike.jpg" alt="Cycling through karst landscape" style="float: left; margin: 0 1em 1em 0; max-width: 500px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/bike.jpg" alt="Cycling through karst landscape" title="Photo by Manon Boyer on Unsplash" style="float: right; margin: 0 0 1em 1em; max-width: 500px; width: 100%;">
 
 We cycled out towards Dragon Bridge through the most incredible lush countryside. The landscape was everything the guidebooks promised and more - those fairytale limestone peaks rising up through the mist. Stopped for pictures at this massive banyan tree along the way, the kind of ancient sprawling thing that makes you feel fairly insignificant.
 
@@ -52,7 +52,7 @@ At Dragon Bridge itself, we did what any sensible group of slightly hungover for
 
 <div style="clear: both;"></div>
 
-<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/DragonBridge.jpg" alt="Jumping from Dragon Bridge" style="float: right; margin: 0 0 1em 1em; max-width: 450px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/DragonBridge.jpg" alt="Jumping from Dragon Bridge" title="Photo by Adam Crase on October 2010" style="float: right; margin: 0 0 1em 1em; max-width: 450px; width: 100%;">
 
 Found a super tasty restaurant nearby for a late lunch - the kind of proper local spot you'd never find without stumbling upon it. Then it was time to catch our sleeper coach back to Guangzhou. First experience of these things and I thought they were absolutely brilliant - little coffin-sized bunks stacked two high, each passenger horizontal for the journey. Genius Chinese engineering. Who needs proper seats when you can just lie down for a six-hour bus ride?
 
