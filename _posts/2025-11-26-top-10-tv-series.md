@@ -214,7 +214,7 @@ The cringe is unbearable....but in the best way; you watch through your fingers,
 
 These almost made the list, and on another day, some of them might have:
 
-<details>
+- <details>
 <summary><strong>Better Call Saul - Season 5</strong> (2020)</summary>
 <p style="margin-top: 0.5em;"><strong>Network:</strong> AMC</p>
 
@@ -248,3 +248,4 @@ These almost made the list, and on another day, some of them might have:
 ---
 
 *What are your top TV series? Disagree with my picks? Drop a comment and let me know what I'm missing!*
+
