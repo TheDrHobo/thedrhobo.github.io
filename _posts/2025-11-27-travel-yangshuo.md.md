@@ -8,6 +8,7 @@ image: yangshuo-header.jpg
 ---
 
 This is the first in a series of five posts about my favourite places visited whilst 'backpacking' i.e. travelling  without a suitcase and not much of a plan except the intention of going off the beaten path as much as possible and not worrying to much about accomodation!
+
 ---
 
 ## Yangshuo, China
