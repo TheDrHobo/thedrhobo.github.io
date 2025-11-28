@@ -232,7 +232,6 @@ These almost made the list, and on another day, some of them might have:
 <blockquote style="font-style: italic; margin-top: 0.5em;">Can we all three just parachute down from cloud cuckoo land?</blockquote>
 </details>
 </li>
-
 <li><strong>Mr. Robot - Season 1</strong> (2015)</li>
 <li><strong>Arrested Development - Season 2</strong> (2005)</li>
 <li><strong>The Inbetweeners - Season 1</strong> (2008)</li>
