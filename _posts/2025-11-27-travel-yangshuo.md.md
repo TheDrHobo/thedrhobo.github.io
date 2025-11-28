@@ -58,8 +58,6 @@ This underrated drama starring Edward Norton and Naomi Watts was filmed extensiv
 
 If you've visited Yangshuo, you'll immediately recognise the landscapes. If you haven't, the film provides excellent motivation to book a flight.
 
-**Watch:** Available on most streaming platforms
-
 <div style="clear: both;"></div>
 
 ---
