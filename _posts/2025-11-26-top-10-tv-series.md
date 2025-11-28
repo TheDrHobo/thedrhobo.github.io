@@ -214,8 +214,11 @@ The cringe is unbearable....but in the best way; you watch through your fingers,
 
 These almost made the list, and on another day, some of them might have:
 
-- <details>
+<ul>
+<li>
+<details>
 <summary><strong>Better Call Saul - Season 5</strong> (2020)</summary>
+
 <p style="margin-top: 0.5em;"><strong>Network:</strong> AMC</p>
 
 <p style="margin-top: 0.5em;">The spin-off from Breaking Bad is as good (almost!?) as its parent. Whilst the lawyering doesn't offer as much 'action' as drug dealing, the character development, tension building, and emotional payoff are just as good, if not better, than in Breaking Bad. The transformation of Jimmy McGill into Saul Goodman is fascinating, and Bob Odenkirk plays the role with aplomb. I've gone with its final season as it achieves that rare feat of sticking the landing of a long series with its perfectly executed conclusion of how Jimmy finally destroys himself – the cameos by Bryan Cranston and Aaron Paul are also handled beautifully in this final season.</p>
@@ -228,22 +231,24 @@ These almost made the list, and on another day, some of them might have:
 
 <blockquote style="font-style: italic; margin-top: 0.5em;">Can we all three just parachute down from cloud cuckoo land?</blockquote>
 </details>
+</li>
 
-- **Mr. Robot - Season 1** (2015)
-- **Arrested Development - Season 2** (2005)
-- **The Inbetweeners - Season 1** (2008)
-- **Chernobyl** (2019)
-- **True Detective - Season 1** (2014)
-- **Lost - Season 3** (2006-2007)
-- **The Fall - Season 1** (2013)
-- **Peep Show - Season 4** (2007)
-- **Extras** (Complete Series, 2005-2007)
-- **Dexter - Season 1** (2006)
-- **This Country** (Complete Series, 2017-2020)
-- **Ozark - Season 3** (2020)
-- **The Outlaws - Season 1** (2021)
-- **Prison Break - Season 1** (2005-2006)
-- **The Walking Dead - Season 1** (2010)
+<li><strong>Mr. Robot - Season 1</strong> (2015)</li>
+<li><strong>Arrested Development - Season 2</strong> (2005)</li>
+<li><strong>The Inbetweeners - Season 1</strong> (2008)</li>
+<li><strong>Chernobyl</strong> (2019)</li>
+<li><strong>True Detective - Season 1</strong> (2014)</li>
+<li><strong>Lost - Season 3</strong> (2006-2007)</li>
+<li><strong>The Fall - Season 1</strong> (2013)</li>
+<li><strong>Peep Show - Season 4</strong> (2007)</li>
+<li><strong>Extras</strong> (Complete Series, 2005-2007)</li>
+<li><strong>Dexter - Season 1</strong> (2006)</li>
+<li><strong>This Country</strong> (Complete Series, 2017-2020)</li>
+<li><strong>Ozark - Season 3</strong> (2020)</li>
+<li><strong>The Outlaws - Season 1</strong> (2021)</li>
+<li><strong>Prison Break - Season 1</strong> (2005-2006)</li>
+<li><strong>The Walking Dead - Season 1</strong> (2010)</li>
+</ul>
 
 ---
 
