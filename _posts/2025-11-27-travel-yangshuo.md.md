@@ -18,7 +18,7 @@ This is the first in a series of five posts about my favourite places visited wh
 
 I've spent quite some time in China and it's the only place I've returned to multiple times (four visits!). My first trip was in October 2010, and every time since, it has slowly become more and more 'over-developed'. That said, I would still recommend a visit - there's a reason it's evolved from a backpacker destination to a more mainstream tourist draw. The surrounding karst landscape is simply exquisite: 'magical' and 'fairytale' only do so much justice in capturing the views.
 
-<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/xingping.jpg" alt="Xing Ping karst landscape" title="Xing Ping - Photo by Dr Hobo on Dec 2017" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/travel/Yangshuo/xingping.png" alt="Xing Ping karst landscape" title="Xing Ping - Photo by Dr Hobo on Dec 2017" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
 Yangshuo itself is a bustling hub with West Street as the main tourist spot, filled to the brim with cafés, hostels and tourist attractions. Next to the Li River, fantastic views are possible from your window or from any of the numerous rooftop bars. I recommend renting a bike or scooter and getting out as far from Yangshuo as possible during the day to explore the countryside. Dragon Bridge was always a highlight in my earlier visits, but in high season this area is starting to get busy.
 
