@@ -217,7 +217,7 @@ These almost made the list, and on another day, some of them might have:
 <ul>
 <li>
 <details>
-<summary><strong>Better Call Saul - Season 5</strong> (2020)</summary>
+<summary>Better Call Saul - Season 5 (2020)</summary>
 
 <p style="margin-top: 0.5em;"><strong>Network:</strong> AMC</p>
 
