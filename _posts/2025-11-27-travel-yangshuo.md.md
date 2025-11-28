@@ -54,7 +54,7 @@ Found a super tasty restaurant nearby for a late lunch - the kind of proper loca
 
 <img src="{{ site.github.url }}/assets/img/travel/Yangshuo/paintedveil.jpg" alt="The Painted Veil poster" style="float: right; margin: 0 0 1em 1em; max-width: 300px; width: 100%;">
 
-This underrated drama starring Edward Norton and Naomi Watts was filmed extensively in the Yangshuo area. The stunning karst mountains and Li River landscapes serve as the backdrop for 1920s rural China in the film. While the story is set in a fictional cholera-stricken village, the real locations showcase exactly why Yangshuo has captivated travellers for decades. The film's cinematography captures the otherworldly quality of those limestone peaks emerging from the mist - the same views that make cycling through the countryside such a memorable experience.
+This underrated drama starring Edward Norton and Naomi Watts was filmed extensively in the Yangshuo area. The stunning karst mountains and Li River landscapes serve as the backdrop for 1920s rural China in the film. While the story is set in a fictional cholera-stricken village, the real locations showcase exactly why Yangshuo has captivated travellers for decades. The film's cinematography captures the otherworldly quality of those limestone peaks emerging from the mist - the same views that make cycling through the countryside such a memorable experience. Also, Edward Norton! 
 
 If you've visited Yangshuo, you'll immediately recognise the landscapes. If you haven't, the film provides excellent motivation to book a flight.
 
@@ -62,4 +62,4 @@ If you've visited Yangshuo, you'll immediately recognise the landscapes. If you 
 
 ---
 
-*Next in the series: [Destination 2]*
+*Next in the series: Victoria Falls*
