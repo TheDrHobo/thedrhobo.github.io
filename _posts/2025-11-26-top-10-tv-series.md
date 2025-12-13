@@ -2,7 +2,7 @@
 layout: post
 title: "Top 10 TV Series"
 author: "Dr Hobo"
-categories: film
+categories: films
 tags: [tv, television, series, top10]
 image: TV.jpg
 ---
