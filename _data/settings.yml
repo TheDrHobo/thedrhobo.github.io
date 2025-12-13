@@ -7,8 +7,8 @@ disqus:
 google-ID: 'G-WXZCVVY4G5'
 
 menu:
-- {name: 'Films', url: '/top-10-films'}
-- {name: 'Books', url: '/top-10-books'}
+- {name: 'Films & TV', url: 'menu/films.html'}
+- {name: 'Books', url: 'menu/books.html'}
 - {name: 'Music', url: 'menu/music.html'}
 - {name: 'Video Games', url: 'menu/videogames.html'}
 - {name: 'Board Games', url: 'menu/boardgames.html'}
