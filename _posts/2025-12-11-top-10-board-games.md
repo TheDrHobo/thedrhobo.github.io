@@ -91,7 +91,7 @@ Trading beans shouldn't be this engaging, yet here we are. The hand order mechan
 
 Growing up, I played endless games of Big 2 with my Hong Kong friends - it's probably my most played game ever. Inevitably, the game became stale for me as me and all my friends and family had reached its skill ceiling. Thus discovering Tichu, a partnered version of the Big 2 formula that added extra depth, was a godsend during COVID. The special card combinations, the push-your-luck Grand Tichu calls, the satisfaction of perfectly coordinating with your partner to beat the opposition - it all combines into something genuinely special. The fact I can play it on my phone at any time is brilliant too. Yes, there's a learning curve, and yes, you need exactly four players for in-person games, and yes, it demands repeated plays with the same group to really shine. But if you can commit to it, Tichu rewards you with one of the deepest, most satisfying card games in existence. The fact it costs about a fiver for a deck makes it almost criminal value. Just be prepared for the arguments when someone makes a catastrophically bad Tichu call.
 
-<img src="/assets/img/Boardgame/Tichugamep.webp" alt="Tichu gameplay" style="margin: 1em 0; max-width: 100%;">
+<img src="/assets/img/Boardgame/Tichugamep.jpg" alt="Tichu gameplay" style="margin: 1em 0; max-width: 100%;">
 
 <div style="clear: both;"></div>
 
@@ -105,14 +105,13 @@ Growing up, I played endless games of Big 2 with my Hong Kong friends - it's pro
 
 The Gale Force Nine reprint of the 1979 classic that proves asymmetric gameplay was solved decades ago and everyone else has just been catching up. Each faction plays completely differently, the alliance system creates shifting political dynamics that would make Machiavelli proud, and the treachery cards ensure paranoia runs rampant. Here's the thing though - the theme matches the mechanics perfectly, which is a genuine rarity in the board gaming world. When that alignment is achieved, it's nothing short of perfection. I actually prefer playing this online, where you can message other players in secret, which adds another delicious layer to the Machiavellian manoeuvring. It's chaotic, it's long, it's got more exceptions to rules than actual rules, and it absolutely requires the right group who are willing to engage in the backstabbing, negotiating, and general skullduggery. But when it works? When someone pulls off an impossible-seeming comeback through sheer political manoeuvring? Or destroying the shield wall at the right moment? Gaming doesn't get better. Just make sure you've got four hours and a group who won't take betrayal personally.
 
-<img src="/assets/img/Boardgame/Dune_Gameplay.webp" alt="Dune gameplay" style="margin: 1em 0; max-width: 100%;">
+<img src="/assets/img/Boardgame/DuneGP.avif" alt="Dune gameplay" style="margin: 1em 0; max-width: 100%;">
 
 <div style="clear: both;"></div>
 
 ---
 
 ## Absolute Balderdash
-<img src="/assets/img/Boardgame/ABcover.webp" alt="Absolute Balderdash cover" style="float: right; margin: 0 0 1em 1em; max-width: 200px; max-height: 300px; object-fit: contain;">
 
 **Designer:** Laura Robinson, Paul Toyne  
 **Year:** 2004
@@ -131,7 +130,7 @@ The only party game that's consistently made it into my top ten, which says some
 **Designer:** Julian Courtland-Smith  
 **Year:** 1986
 
-The perfect game for kids, hands down. I still remember the excitement of playing this as a 10-year-old after my mum found it in a charity shop - watching the island tiles sink, revealing sea monsters and sharks, desperately trying to get my meeples to safety whilst my siblings' whales smashed my boats to pieces. Pure chaos, pure fun, zero complexity. The updated definitive version, 'Survive: Escape from Atlantis', keeps everything that made the original brilliant whilst improving the production quality. I'm genuinely looking forward to playing this with my own kids - it's one of those rare games that works brilliantly across generations. The Take-That elements are strong, but they're cartoonish enough that nobody takes it personally when a sea serpent devours their swimmer. Simple rules, memorable moments, and the kind of gleeful destruction that makes family game nights actually fun rather than an exercise in managing different skill levels.
+The perfect game for kids, hands down. I still remember the excitement of playing this as a 10-year-old after my mum found it in a charity shop (i found the cover art so exciting) - watching the island tiles sink, revealing sea monsters and sharks, desperately trying to get my meeples to safety whilst my sister's octopus smashed my boats to pieces. Pure chaos, pure fun, zero complexity. The updated definitive version, 'Survive: Escape from Atlantis', keeps everything that made the original brilliant whilst improving the production quality. I'm genuinely looking forward to playing this with my own kids - it's one of those rare games that works brilliantly across generations. The Take-That elements are strong, but they're cartoonish enough that nobody takes it personally when a sea serpent devours their swimmer. Simple rules, memorable moments, and the kind of gleeful destruction that makes family game nights so much fun.
 
 <img src="/assets/img/Boardgame/EFAgame.webp" alt="Escape from Atlantis gameplay" style="margin: 1em 0; max-width: 100%;">
 
@@ -145,7 +144,7 @@ The perfect game for kids, hands down. I still remember the excitement of playin
 **Designer:** Wolfgang Kramer, Richard Ulrich  
 **Year:** 1995
 
-The original 'Area majority' game? And easily one of the best. The power card mechanism is genius - higher numbers give you better actions but worse turn order next round, creating this constant push-and-pull between grabbing what you need now versus positioning for the future. The Castillo is brilliant too, this hidden reservoir of cubes that gets revealed during scoring, leading to those perfect 'gotcha' moments when someone's seemingly dominant position crumbles. It's a game of reading opponents, managing resources, and timing your moves perfectly. Nearly thirty years old and it still plays better than most modern area control games. The Big Box reprint with the expansions is worth tracking down, though the base game alone justifies the shelf space. Peak euro design from when euros were still figuring out what they wanted to be.
+The original 'Area majority' game? And easily one of the best. The power card mechanism is genius - higher numbers give you better actions but worse turn order next round, creating this constant push-and-pull between grabbing what you need now versus positioning for the future. The Castillo is brilliant too, this hidden reservoir of cubes that gets revealed during scoring, leading to those perfect 'gotcha' moments when someone's seemingly dominant position crumbles. It's a game of reading opponents, managing resources, and timing your moves perfectly. Nearly thirty years old and it still plays better than most modern area control games.
 
 <img src="/assets/img/Boardgame/EGgame.webp" alt="El Grande gameplay" style="margin: 1em 0; max-width: 100%;">
 
