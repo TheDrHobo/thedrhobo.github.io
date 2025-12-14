@@ -4,7 +4,7 @@ title: "Top 10 Board Games"
 author: "Dr Hobo"
 categories: games
 tags: [boardgames, tabletop, gaming, top10]
-image: boardgames/boardgames.jpg
+image: boardgame.jpg
 ---
 
 These are 10 board games that have earned permanent shelf space in my collection. No ranking - just games I keep coming back to and think are worth your money. As of November 2025.
@@ -89,7 +89,7 @@ Trading beans shouldn't be this engaging, yet here we are. The hand order mechan
 **Designer:** Urs Hostettler  
 **Year:** 1991
 
- Growing up, I played endless games of Big 2 with my Hong Kong friends and is probably my most played game. ever. Inevitably, the game became stale for me as me and all my friends and family had reached it's skill ceiling. Thus Discovering Tichu, a partnered version of the Big 2 formula that added extra depth, was a godsend during COVID. The special card combinations, the push-your-luck Grand Tichu calls, the satisfaction of perfectly coordinating with your partner to beat the opposition - it all combines into something genuinely special. The fact I can play it on my phone at any time is brilliant too. Yes, there's a learning curve, and yes, you need exactly four players for in-person games, and yes, it demands repeated plays with the same group to really shine. But if you can commit to it, Tichu rewards you with one of the deepest, most satisfying card games in existence. The fact it costs about a fiver for a deck makes it almost criminal value. Just be prepared for the arguments when someone makes a catastrophically bad Tichu call.
+Growing up, I played endless games of Big 2 with my Hong Kong friends - it's probably my most played game ever. Inevitably, the game became stale for me as me and all my friends and family had reached its skill ceiling. Thus discovering Tichu, a partnered version of the Big 2 formula that added extra depth, was a godsend during COVID. The special card combinations, the push-your-luck Grand Tichu calls, the satisfaction of perfectly coordinating with your partner to beat the opposition - it all combines into something genuinely special. The fact I can play it on my phone at any time is brilliant too. Yes, there's a learning curve, and yes, you need exactly four players for in-person games, and yes, it demands repeated plays with the same group to really shine. But if you can commit to it, Tichu rewards you with one of the deepest, most satisfying card games in existence. The fact it costs about a fiver for a deck makes it almost criminal value. Just be prepared for the arguments when someone makes a catastrophically bad Tichu call.
 
 <img src="{{ site.github.url }}/assets/img/boardgames/Tichugamep.webp" alt="Tichu gameplay" style="margin: 1em 0; max-width: 100%;">
 
@@ -145,7 +145,7 @@ The perfect game for kids, hands down. I still remember the excitement of playin
 **Designer:** Wolfgang Kramer, Richard Ulrich  
 **Year:** 1995
 
-The orginal 'Area majority' game? and easily one of the best. The power card mechanism is genius - higher numbers give you better actions but worse turn order next round, creating this constant push-and-pull between grabbing what you need now versus positioning for the future. The Castillo is brilliant too, this hidden reservoir of cubes that gets revealed during scoring, leading to those perfect 'gotcha' moments when someone's seemingly dominant position crumbles. It's a game of reading opponents, managing resources, and timing your moves perfectly. Nearly thirty years old and it still plays better than most modern area control games. The Big Box reprint with the expansions is worth tracking down, though the base game alone justifies the shelf space. Peak euro design from when euros were still figuring out what they wanted to be.
+The original 'Area majority' game? And easily one of the best. The power card mechanism is genius - higher numbers give you better actions but worse turn order next round, creating this constant push-and-pull between grabbing what you need now versus positioning for the future. The Castillo is brilliant too, this hidden reservoir of cubes that gets revealed during scoring, leading to those perfect 'gotcha' moments when someone's seemingly dominant position crumbles. It's a game of reading opponents, managing resources, and timing your moves perfectly. Nearly thirty years old and it still plays better than most modern area control games. The Big Box reprint with the expansions is worth tracking down, though the base game alone justifies the shelf space. Peak euro design from when euros were still figuring out what they wanted to be.
 
 <img src="{{ site.github.url }}/assets/img/boardgames/EGgame.webp" alt="El Grande gameplay" style="margin: 1em 0; max-width: 100%;">
 
