@@ -2,7 +2,7 @@
 layout: post
 title: "Top 10 Board Games"
 author: "Dr Hobo"
-categories: games
+categories: boardgames
 tags: [boardgames, tabletop, gaming, top10]
 image: boardgame.jpg
 ---
