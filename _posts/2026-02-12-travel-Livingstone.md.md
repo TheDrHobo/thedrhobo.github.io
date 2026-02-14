@@ -20,7 +20,7 @@ Zambia still evokes age-old African tropes of timelessness, poverty and tribalis
 
 However, the UNWTO event has gone some way to remedy Zambia's silent rise as an attractive tourist destination. From the minute you land in Lusaka, the nation's rapidly modernising capital, everything seems to undermine the stereotypical understanding of sub-Saharan Africa. But this blog is about the town Livingstone and the nearby Victoria falls. 
 
-<img src="{{ site.github.url }}/assets/img/Zambia/victoria falls.jpg" alt="Victoria Falls" title="Victoria Falls - Photo by Dr Hobo" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/Zambia/victoria falls.jpg" alt="Victoria Falls" title="Victoria Falls - Photo from Upsplash" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
 The moment from Livingstone that will stick with you for a lifetime isn't the terrifying bungee jump, nor the extreme grade 5+ white water rafting - it's simply walking in Victoria Falls National Park. The lush tropical setting, its cheeky sandwich-stealing monkeys, and the nervous excitement of knowing something spectacular is around the corner create an atmosphere that gives you a feeling of kinship with the great explorer Dr Livingstone himself.
 
@@ -38,7 +38,7 @@ Sioma was a rough frontier town in every way possible. Prices were high, townspe
 
 After 10 minutes I did get lucky and found myself outside the visitor's centre for the 'Sioma Falls National Park'. Knowing full well it was only classed as a 'National Park' so they could charge me some ridiculous fee, I attempted to slyly slip past the Park centre unnoticed. Unfortunately, a truck full of intimidating and armed park rangers drove past as I was just about to make my unauthorised detour. Slightly alarmed at the sight of a lone white man on foot, they stopped and asked questions. They 'correctly' assumed I was lost and pointed me in the right direction of the visitor centre.
 
-<img src="{{ site.github.url }}/assets/img/Zambia/SIOMAAH.jpg" alt="Sioma Falls" title="Sioma Falls - Photo by Dr Hobo" style="float: right; margin: 0 0 1em 1em; max-width: 400px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/Zambia/SIOMAAH.jpg" alt="Sioma Falls" title="Sioma Falls - Photo found online" style="float: right; margin: 0 0 1em 1em; max-width: 400px; width: 100%;">
 
 Twenty minutes later and about 50 Kwacha short, I was escorted to see the falls. Had I brought with me a few friends, some beers and a picnic it would have been a nice afternoon out. As it was, I had a guide who said no to all my requests:
 
