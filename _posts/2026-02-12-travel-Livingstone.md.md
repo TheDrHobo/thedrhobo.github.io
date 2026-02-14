@@ -16,9 +16,7 @@ This is the second in a series of five about my favourite places visited whilst 
 **Last visit:** April 2013  
 **Vibe:** Adrenaline capital meets natural wonder
 
-Zambia still evokes age-old African tropes of timelessness, poverty and tribalism for many people. It's a country that sounds distinctively African but remains largely unknown. Despite hosting the UN World Tourism Organisation's (UNWTO) world assembly in August 2013, Zambia is still difficult to place on the map - sandwiched between news-loud neighbours Zimbabwe and the Congo.
-
-However, the UNWTO event has gone some way to remedy Zambia's silent rise as an attractive tourist destination. From the minute you land in Lusaka, the nation's rapidly modernising capital, everything seems to undermine the stereotypical understanding of sub-Saharan Africa.
+Zambia still evokes age-old African tropes of timelessness, poverty and tribalism for many people. It's a country that sounds distinctively African but remains largely unknown. Despite hosting the UN World Tourism Organisation's (UNWTO) world assembly in August 2013, Zambia is still difficult to place on the map - sandwiched as it is between news-loud neighbours Zimbabwe and the Congo. However, the UNWTO event has gone some way to remedy Zambia's silent rise as an attractive tourist destination. From the minute you land in Lusaka, the nation's rapidly modernising capital, everything seems designed to undermine stereotypical understandings of sub-Saharan Africa. 
 
 <img src="{{ site.github.url }}/assets/img/Zambia/paul-milley-fS_UGUadwbA-unsplash.jpg" alt="Victoria Falls" title="Victoria Falls - Photo by Paul Milley on Unsplash" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
