@@ -4,7 +4,7 @@ title: "Victoria Falls, Zambia"
 author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, zambia, victoria-falls]
-image: victoria falls.jpg
+image: VictoriaFalls.jpg
 ---
 
 This is the second in a series of five about my favourite places visited whilst backpacking.
