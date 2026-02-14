@@ -4,7 +4,7 @@ title: "Livingstone, Zambia"
 author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, zambia, victoria-falls]
-image: Zambia/victoria falls.jpg
+image: victoria falls.jpg
 ---
 
 This is the second in a series of five posts about my favourite places visited whilst backpacking.
