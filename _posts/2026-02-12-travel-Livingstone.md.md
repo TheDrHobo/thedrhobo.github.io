@@ -51,7 +51,7 @@ I was initially cautious as there was a mad assortment of people in this pickup 
 
 These guys were half Greek, half Zambian. When I learnt this fact I couldn't resist asking if they knew my university friend from 6 years ago who was also Greco-Zambian - and as it turned out, they did! This was the deciding factor and I said yes to their very kind offer. I hopped into the back of their truck with all the other Zambian hitch-hikers and ended up staying the night at what must be the most beautifully located poultry farm in the African sub-continent.
 
-<img src="{{ site.github.url }}/assets/img/Zambia/canoe-elephants.png" alt="Canoeing near elephants on the Zambezi" title="Canoeing on the Zambezi - Photo by Dr Hobo" style="display: block; margin: 1em auto; max-width: 700px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/Zambia/canoe-elephants.png" alt="Canoeing near elephants on the Zambezi" title="Canoeing on the Zambezi - Photo by Dr Hobo from a different Canoe trip" style="display: block; margin: 1em auto; max-width: 700px; width: 100%;">
 
 Their lodge overlooked possibly the most stunning part of the Zambezi I had seen. Better yet, they had a canoe resting on the river bank screaming to be used. As it turned out, the two teenage boys were up for going for a paddle as well. Unfortunately however, the Zambian worker Aunty Julia hired as a domestic worker/fisherman/canoe paddler was blind drunk.
 
