@@ -26,7 +26,7 @@ Despite being surrounded by camera-wielding tourists, the park still holds an as
 
 The surrounding area offers cultural experiences too - the royal Kuomboka ceremony celebrates the flooding of the Zambezi River with a procession led by the king of the Lozi people, an annual tradition dating back 300 years. The sudden appearance of the Lozi King dressed as a Victorian ambassador brings home the slight madness we all love in royal ceremonies.
 
-**In sum:** A definite must if you're into outdoor activities and don't mind sharing Victoria Falls with tour groups. Not so much if you're looking for undiscovered Africa or avoiding tourist infrastructure - see extract below for more the latter!
+**In sum:** A definite must if you're into outdoor activities and don't mind sharing Victoria Falls with tour groups. Not so much if you're looking for undiscovered Africa or avoiding tourist infrastructure - see extract below for more of the latter!
 
 ---
 
