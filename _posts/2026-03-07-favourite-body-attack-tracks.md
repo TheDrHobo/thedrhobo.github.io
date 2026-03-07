@@ -59,14 +59,14 @@ The greatest Body Attack track ever made. Not up for debate. If you've done Body
 
 ---
 
-## 05. Athletic Strength — Blinding Lights
-**Artist:** The Weeknd
-**Release:** BA 119
+## 05. Athletic Strength — Energy
+**Artist:** CRMNL
+**Release:** BA 117
 
-The original — and still the one. There's a reason this song became inescapable: that synth riff is physically impossible to ignore. In an Athletic Strength section it hits differently to the Quickdrop remix — rawer, more urgent, and somehow even harder to stop moving to.
+A track that earns its title. CRMNL deliver something genuinely anthemic here — big, driving, and relentless in all the right ways for an athletic strength section. The kind of track that makes you feel like you're in a film montage rather than a gym class.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/fHI8X4OXluQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/r90KK0IxfTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
@@ -146,7 +146,6 @@ Tracks that very nearly made it — and on a different day, some of them would:
 - **Believe** — Cher (BA 119)
 - **Bad Romance** — Lady Gaga (BA 115)
 - **The Whistle GB** — Steve Aoki x Timmy Trumpet x DJ Aligator (BA 119)
-- **Energy** — CRMNL (BA 117)
 - **Stamp On The Ground** — ItaloBrothers (BA 70)
 - **Unbreakable (Extended Mix)** — Psyko Punkz & DJ Isaac & Sound Rush *(BA 119 — Interval)*
 - **Wellerman (Harris & Ford Extended Remix)** (BA 114)
