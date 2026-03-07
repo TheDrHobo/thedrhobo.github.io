@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "My Favourite Body Attack Tracks"
+title: "Top Body Attack Tracks"
 author: "Dr Hobo"
 categories: music
 tags: [music, body-attack, lesmills, workout, top10]
 image: bodyattack.jpg
 ---
 
-Body Attack tracks spanning releases 114–124, with two classic detours into release 70 — and a nod to release 95, as championed by a very good instructor. No ranking. Just the tracks that have made me work harder than I intended to, mapped in class order. As of March 2026.
+Top Body Attack tracks spanning releases 114–124, with two classic detours into release 70 — and a nod to release 95, as championed by a very good instructor. No ranking. Just the tracks that have made me work harder than I intended to, mapped in class order. As of March 2026.
 
 ---
 
