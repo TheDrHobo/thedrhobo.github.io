@@ -4,7 +4,7 @@ title: "My Favourite Body Attack Tracks"
 author: "Dr Hobo"
 categories: music
 tags: [music, body-attack, lesmills, workout, top10]
-image: placeholder.jpg
+image: bodyattack.jpg
 ---
 
 Body Attack tracks spanning releases 114–124, with two classic detours into release 70 — and a nod to release 95, as championed by a very good instructor. No ranking. Just the tracks that have made me work harder than I intended to, mapped in class order. As of March 2026.
@@ -143,10 +143,10 @@ An outlier in a playlist full of high-BPM bangers — almost delicate by compari
 
 Tracks that very nearly made it — and on a different day, some of them would:
 
-- **Believe** — Cher (BA 119)
-- **Bad Romance** — Lady Gaga (BA 115)
-- **The Whistle GB** — Steve Aoki x Timmy Trumpet x DJ Aligator (BA 119)
-- **Stamp On The Ground** — ItaloBrothers (BA 70)
-- **Unbreakable (Extended Mix)** — Psyko Punkz & DJ Isaac & Sound Rush *(BA 119 — Interval)*
-- **Wellerman (Harris & Ford Extended Remix)** (BA 114)
-- **Here We Go (Workout Remix)** — Power Music Workout (BA 117)
+- **01. Warmup** — Believe — Cher (BA 119)
+- **02. Mixed Impact** — Bad Romance — Lady Gaga (BA 115)
+- **03. Aerobics** — The Whistle GB — Steve Aoki x Timmy Trumpet x DJ Aligator (BA 119)
+- **06. Running** — Stamp On The Ground — ItaloBrothers (BA 70)
+- **08. Interval** — Unbreakable (Extended Mix) — Psyko Punkz & DJ Isaac & Sound Rush (BA 119)
+- **08. Interval** — Wellerman (Harris & Ford Extended Remix) (BA 114)
+- **09. Power** — Here We Go (Workout Remix) — Power Music Workout (BA 117)
