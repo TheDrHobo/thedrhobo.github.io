@@ -59,14 +59,14 @@ The greatest Body Attack track ever made. Not up for debate. If you've done Body
 
 ---
 
-## 05. Athletic Strength — Unbreakable
-**Artist:** Psyko Punkz & DJ Isaac & Sound Rush
+## 05. Athletic Strength — Blinding Lights
+**Artist:** The Weeknd
 **Release:** BA 119
 
-Hardstyle-influenced and merciless. The kind of track that convinces you, briefly, that you could run through a wall. The production is thunderous and the tempo absolutely unforgiving — which is, of course, the point.
+The original — and still the one. There's a reason this song became inescapable: that synth riff is physically impossible to ignore. In an Athletic Strength section it hits differently to the Quickdrop remix — rawer, more urgent, and somehow even harder to stop moving to.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/AODwcMZ4Rwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/fHI8X4OXluQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
@@ -148,6 +148,6 @@ Tracks that very nearly made it — and on a different day, some of them would:
 - **The Whistle GB** — Steve Aoki x Timmy Trumpet x DJ Aligator (BA 119)
 - **Energy** — CRMNL (BA 117)
 - **Stamp On The Ground** — ItaloBrothers (BA 70)
-- **Unbreakable (Extended Mix)** — Psyko Punkz & DJ Isaac & Sound Rush (BA 119)
+- **Unbreakable (Extended Mix)** — Psyko Punkz & DJ Isaac & Sound Rush *(BA 119 — Interval)*
 - **Wellerman (Harris & Ford Extended Remix)** (BA 114)
 - **Here We Go (Workout Remix)** — Power Music Workout (BA 117)
