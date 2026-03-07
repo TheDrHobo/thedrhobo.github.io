@@ -14,7 +14,7 @@ This is part of a series on my favourite places visited whilst backpacking.
 ## Itacaré, Bahia, Brazil
 
 **Last visit:** July 2014  
-**Vibe:** Barefoot surf town with a side of jungle magic — and just enough arrogance to keep you honest
+**Vibe:** Barefoot surf town with a side of jungle magic
 
 Brazil in July 2014 was a country in the grip of a very particular kind of madness. The World Cup had turned the whole nation into a theatre of extremes — euphoria, protest, and somewhere in the middle, a gringo working in a hostel in Vitória, doing his best to serve caipirinhas fast enough to keep pace with the goals. When England crashed out early and the circus moved on, I headed south to decompress somewhere the football couldn't find me.
 
