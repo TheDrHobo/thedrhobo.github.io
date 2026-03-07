@@ -24,7 +24,11 @@ A small town on the southern Bahia coast, wedged between the Atlantic rainforest
 
 The surf culture is real, and it brings with it the universal currency of surf towns worldwide: a mild but unmistakable arrogance. The local surfers are genuinely good — Itacaré's beach breaks and point breaks have been drawing serious wave hunters for decades — and they know it. As a non-surfer you are tolerated warmly, perhaps even welcomed, as long as you understand your place in the food chain. I understood my place immediately and settled into it with no complaints.
 
+<img src="{{ site.github.url }}/assets/img/itacare/surf-beach.jpg" alt="Surf beach, Itacaré" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
+
 The beaches themselves don't compete for your attention — they simply reveal themselves, one after another, each requiring a short trek through Atlantic rainforest to reach. Prainha, Engenhoca, Havaizinho. You earn each one with a sweaty twenty-minute walk, which means that by the time you arrive, you've usually got the place almost to yourself. That trade-off — mild effort for near-total solitude — never gets old.
+
+<img src="{{ site.github.url }}/assets/img/itacare/coroinha-beach.jpg" alt="Coroinha Beach, Itacaré" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
 ---
 
@@ -36,7 +40,11 @@ Having picked up a fellow traveller at the hostel — the kind of easy friendshi
 
 Paddling against the current on the way out is a workout you don't fully appreciate until you stop, at which point the river immediately begins returning you to where you started. The reward for persistence is a tunnel of mangroves so dense and low that you find yourself ducking instinctively, watching the roots dip into the dark water on either side — other-worldly in a way that reminds you that Brazil's ecological diversity is not a tourism slogan, it is simply a fact.
 
+<img src="{{ site.github.url }}/assets/img/itacare/canoe.jpg" alt="Canoeing the Rio das Contas, Itacaré" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
+
 At the end of it, the Cleandro Waterfalls — properly known as the Cachoeira do Rio do Engenho — reveal themselves in a series of cascades dropping into natural pools cool enough to make you gasp. After the heat of Bahia in July, swimming beneath them while the canoe bobs nearby in the mangrove shade is about as close to perfection as a Tuesday afternoon can get.
+
+<img src="{{ site.github.url }}/assets/img/itacare/cfalls.jpg" alt="Cleandro Waterfalls, Itacaré" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
 The paddle back, with the current doing most of the work, felt like a reward well earned.
 
@@ -54,8 +62,6 @@ In fact it was almost too good of a party. I missed my alarm and was fortunate e
 
 I made it though — indeed, I'm writing this from the train right now. It's great, the best way to travel for sure. Comfy seats, a carriage as a canteen, a mini computer lab for your laptops and best of all — stunning scenery: misty mountains, bubbling rivers, horse ranches and untouched forests. And that's the bits I did see through my dazed hungover state. If you get the chance I thoroughly recommend the Belo Horizonte–Vitória train link. The train is more akin to those you imagine as a child — not those sanitised, boring ones from home — more like something from an Indiana Jones film or an old Bond movie.
 
+<img src="{{ site.github.url }}/assets/img/itacare/train.jpg" alt="The train from Vitória to Belo Horizonte" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
+
 Anyway, with no firm plans yet for tonight's accommodation, or any knowledge of how to get from Belo Horizonte station to Ouro Preto at 10pm, I leave you all in Vitória whilst clinging on a wing and a prayer.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Beach_in_Itacar%C3%A9.jpg" alt="Beach in Itacaré, Bahia, Brazil" title="Photo by Rivieiraa, CC BY-SA 4.0" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
-
-*Photo: Rivieiraa, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
