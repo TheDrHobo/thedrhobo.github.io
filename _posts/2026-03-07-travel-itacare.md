@@ -4,7 +4,7 @@ title: "Itacaré, Brazil"
 author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, brazil, itacare, bahia]
-image: itacare/header.jpg
+image: itacare/itacare-header.jpg
 ---
 
 This is part of a series on my favourite places visited whilst backpacking.
