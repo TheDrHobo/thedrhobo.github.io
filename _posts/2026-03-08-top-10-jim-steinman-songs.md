@@ -16,7 +16,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Streets of Fire (Soundtrack)
 **Year:** 1984
 
-{embed('ClnN_s2VGV0')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/3VopScslvPo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -25,7 +29,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Faster Than the Speed of Night
 **Year:** 1983
 
-{embed('jm4CgwRxw3Y')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/jm4CgwRxw3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -34,7 +42,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Streets of Fire (Soundtrack)
 **Year:** 1984
 
-{embed('iVr15gWYUek')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/_RiddOphPKs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -43,7 +55,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Greatest Hits
 **Year:** 1983
 
-{embed('ogoIxkPjRts')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ogoIxkPjRts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -52,7 +68,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Faster Than the Speed of Night
 **Year:** 1983
 
-{embed('lcOxhH8N3Bo')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/f5t2-Q-nO14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -61,7 +81,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Bad for Good
 **Year:** 1981
 
-{embed('DILAKGgn7zU')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/NQ85WU-Z1oQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -70,7 +94,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Bad for Good
 **Year:** 1981
 
-{embed('31KLfWV3aq8')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/31KLfWV3aq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -79,7 +107,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Bat Out of Hell
 **Year:** 1977
 
-{embed('3QGMCSCFoKA')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/x7ES7ueI7p0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -88,7 +120,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Bat Out of Hell
 **Year:** 1977
 
-{embed('8KyHDNQkBSA')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/8KyHDNQkBSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -97,7 +133,11 @@ Jim Steinman was one of the great rock composers — a man who treated every son
 **Album:** Bat Out of Hell II: Back into Hell
 **Year:** 1993
 
-{embed('9X_ViIPA-Gc')}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/_cnPZSM85j8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
