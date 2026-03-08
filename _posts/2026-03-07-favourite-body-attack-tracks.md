@@ -7,7 +7,7 @@ tags: [music, body-attack, lesmills, workout, top10]
 image: bodyattack.jpg
 ---
 
-Top Body Attack tracks spanning releases 114–124, with two classic detours into release 70 — and a nod to release 95, as championed by a very good instructor. No ranking. Just the tracks that have made me work harder than I intended to, mapped in class order. As of March 2026.
+Top Body Attack tracks spanning releases 114–124, with two classic detours into release 70 and release 95, as championed by a very good instructor. No ranking. Just the tracks that have made me work harder than I intended to, mapped in class order. As of March 2026.
 
 ---
 
@@ -15,7 +15,7 @@ Top Body Attack tracks spanning releases 114–124, with two classic detours int
 **Artist:** Meck feat. Dino
 **Release:** BA 70
 
-The one that started it all for me. A euphoric trance anthem that somehow makes a warm-up feel like a rave. The kind of track where you find yourself moving before you've realised the class has started. The fact that it's been in the repertoire since release 70 and still lands this hard says everything about it.
+A euphoric trance anthem that somehow makes a warm-up feel like a rave. The kind of track where you find yourself moving before you've realised the class has started.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ptxd2Ym6v8g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ The one that started it all for me. A euphoric trance anthem that somehow makes 
 **Artist:** Ava Max
 **Release:** BA 115
 
-The Toby Green Remix strips Ava Max's original back to something leaner and meaner. The chorus hits like a gear change — one of those moments in a class where your legs somehow find another level you didn't know was there.
+The Toby Green Remix strips Ava Max's original back to something leaner and meaner. The chorus hits like a gear change - where your legs somehow find another level you didn't know was there.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/uMShqw8_DxI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ What LUM!X does to Beyoncé's ballad should probably be illegal. Transforms one 
 **Artist:** Master Bazz
 **Release:** BA 95
 
-The greatest Body Attack track ever made. Not up for debate. If you've done Body Attack and this hasn't come on, I'm not sure you've truly done Body Attack. The Bonkerz Remix takes an already brilliant song and turns it into something genuinely transcendent at peak cardio. Nuff said.
+The greatest Body Attack track ever made. Not up for debate. The Bonkerz Remix takes an already brilliant song and turns it into something genuinely transcendent at peak cardio. The track that made me into a body attack regular
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ltzEE6JJaDI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -75,7 +75,7 @@ A track that earns its title. CRMNL deliver something genuinely anthemic here �
 **Artist:** Topmodelz
 **Release:** BA 70
 
-The Topmodelz remix takes a-ha's immortal synth-pop classic and weaponises it. There's something about the familiarity of that melody — the moment you recognise it — that produces a shot of pure adrenalin. One of those rare tracks where the nostalgia and the workout energy reinforce each other perfectly.
+The Topmodelz remix takes a-ha's immortal synth-pop classic and weaponises it. There's something about the familiarity of that melody — the moment you recognise it — that produces a shot of pure adrenalin. One of those rare tracks where the nostalgia and the workout energy reinforce each other.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/3LmjZ6-aMUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -131,7 +131,7 @@ No YouTube for this one — it's a Les Mills exclusive. You'll have to come to c
 **Artist:** Gryffin & Bipolar Sunshine
 **Release:** BA 124
 
-An outlier in a playlist full of high-BPM bangers — almost delicate by comparison. But that contrast is exactly what makes it work. The cooldown equivalent of finally sitting down after a long run. Beautiful track.
+An outlier in a playlist full of high-BPM bangers, almost delicate by comparison. But that contrast is exactly what makes it work. The cooldown equivalent of finally sitting down after a long run. Beautiful track.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/PWhMoGt0cs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
