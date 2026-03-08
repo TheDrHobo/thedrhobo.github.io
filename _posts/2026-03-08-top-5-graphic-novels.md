@@ -2,7 +2,7 @@
 layout: post
 title: "Top 5 Graphic Novels"
 author: "Dr Hobo"
-categories: books
+categories: [books, graphicnovels]
 tags: [books, comics, graphicnovels, top5]
 image: graphicnovels/graphic-novels-header.jpg
 ---
