@@ -4,7 +4,7 @@ title: "Top 10 Tom Waits Songs"
 author: "Dr Hobo"
 categories: music
 tags: [music, tomwaits, top10]
-image: Music.jpg
+image: twheader.webp
 ---
 
 Tom Waits is one of those artists you either stumble into or get handed by someone who loves you. There's no mainstream route in. His early records are late-night piano ballads soaked in cigarette smoke and unrequited love — and then somewhere around *Swordfishtrombones* he threw the whole thing in the air and rebuilt it from junkyard parts. Waits has always written about the people on the edge: the drifters, the drunks, the hopelessly romantic, the quietly broken. Nobody does it with more tenderness or more wit. These are my ten favourites. As of March 2026.
