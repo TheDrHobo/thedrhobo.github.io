@@ -15,7 +15,7 @@ Three people sit around a campfire in the wild, next to the crocodile-infested Z
 
 One is on holiday for two weeks, another is a travelling volunteer, and the third is on a year-long round-the-world trip. That all three are involved in an activity designed for tourists, and none are on a packaged holiday trip, makes this question more difficult than expected. Add to the mix that one of the three is offended to be labelled a tourist, and you have the makings of a common backpacker debate, one that's played out in youth hostels across the world.
 
-<img src="{{ site.github.url }}/assets/img/backpacking.jpg" alt="A traveller beside a tent and campfire by a river" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
+<img src="{{ site.github.url }}/assets/img/camel.jpg" alt="A camel caravan on the backpacker trail" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
 ---
 
