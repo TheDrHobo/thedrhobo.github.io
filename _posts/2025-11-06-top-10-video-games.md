@@ -7,7 +7,7 @@ tags: [gaming, videogames, top10]
 image: gaming.jpg
 ---
 
-These are the games that have stuck with me - the ones I return to, the ones that changed how I see gaming, and the ones I can't stop recommending. No ranking, just ten games worth your time. As of November 2025.
+These are the games that have stuck with me - the ones I return to, the ones that changed how I see gaming, and the ones I can't stop recommending. No ranking, just ten games worth your time. As of November 2025. Platform and year are original release details; where I first played it later or on a different platform, I've noted that below each entry.
 
 ---
 
@@ -16,13 +16,14 @@ These are the games that have stuck with me - the ones I return to, the ones tha
 
 **Platform:** Nintendo 64  
 **Developer:** Nintendo  
-**Year:** 1998
+**Year:** 1998  
+**Played:** 1999
 
-This is the game that defined what 3D adventure games could be. A technical achievement that was also a utterly captvating experiece. So many moments blew my mind as a kid.  The transition from child to adult Link, the dungeons that felt like elaborate puzzles, riding a horse, and the ocarina songs became part of gaming culture. Some call it the greatest game ever made, and honestly, I'm not going to argue. In fact, its top of my list. 
+So many moments blew my mind as a kid. The transition from child to adult Link, the dungeons that felt like elaborate puzzles, riding a horse, and the ocarina songs became part of gaming culture. Some call it the greatest game ever made, and honestly, I'm not going to argue. In fact, it's top of my list.
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">Seeing the sunset over hyrule castle and having night fall....the realisation that this game had a dynamic day and night system had me in wonder; I also remember feeling immensly proud of myself when, at about 12 years old, I finished the final ganon fight</blockquote>
+<summary><strong>🎮 Favourite Moment</strong></summary>
+<blockquote style="font-style: italic; margin-top: 0.5em;">Seeing the sunset over hyrule castle and having night fall....the realisation that this game had a dynamic day and night system had me in wonder; I also remember feeling immensely proud of myself when, at about 12 years old, I finished the final ganon fight</blockquote>
 </details>
 
 ---
@@ -32,12 +33,13 @@ This is the game that defined what 3D adventure games could be. A technical achi
 
 **Platform:** PC  
 **Developer:** Valve  
-**Year:** 1998
+**Year:** 1998  
+**Played:** 2004
 
-Half-Life changed everything about how we tell stories in first-person shooters. No cutscenes, no pulling control away from the player - just you, Gordon Freeman, living through a disaster in real-time. Indeed, that opening tram ride through Black Mesa is still one of gaming's best introductions. At the time too, AI was genuinely threatening, with marines flanking you and working as squads. Every chapter felt different, from the claustrophobic tunnels to the alien world of Xen. Revolutionary doesn't even begin to cover it.
+No cutscenes, no pulling control away from the player - just you, Gordon Freeman, living through a disaster as it unfolds. That opening tram ride through Black Mesa is still one of the best introductions in gaming, and the AI at the time was genuinely threatening: marines flanking you, working as squads, not just walking into your bullets. Every chapter felt different.
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
+<summary><strong>🎮 Favourite Moment</strong></summary>
 <blockquote style="font-style: italic; margin-top: 0.5em;">"Forget about Freeman!" The moment when you realize the military isn't there to rescue you - they're there to silence everyone, including you. That shift from "we're saved" to "we're being hunted" was chilling. Also, that tentacle sound based monster forcing you creep around! A shout out to the expansions too, loved 'Opposing Force'</blockquote>
 </details>
 
@@ -48,13 +50,14 @@ Half-Life changed everything about how we tell stories in first-person shooters.
 
 **Platform:** Nintendo 64  
 **Developer:** Rare  
-**Year:** 1997
+**Year:** 1997  
+**Played:** 1999
 
-Simply iconic. Rare took a movie license - something usually synonymous with disaster - and created one of the N64's defining experiences. The campaign was brilliant, with multiple objectives depending on difficulty and levels that encouraged exploration and stealth. But the multiplayer? That's where friendships died. Four-player split-screen battles with proximity mines in the Facility, Slappers Only in the Complex, License to Kill mode making everyone a glass cannon - these became the stuff of legend. Oddjob was banned in my house for being too short. It's the game that made local multiplayer FPS a thing.
+Rare took a movie licence - something usually synonymous with disaster - and made one of the N64's best games. The campaign had proper objectives that changed with difficulty, levels that rewarded exploration and stealth. But the multiplayer is what people remember. Four-player split-screen, proximity mines in the Facility, Slappers Only in the Complex, License to Kill turning everyone into one-hit kills. Oddjob was banned in my house. That was non-negotiable.
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">The first time I saw a guard on the opening level actually react to where you shot them as a 10 year old is forever etched into my mind. I could not beleive that realism could exist in a video game  -a few years later, when i was allowed to actually play the game, I used to love the 2nd level 'Facility', sneaking through the ventilation system above the bathroom stalls, dropping down behind an unsuspecting guard...</blockquote>
+<summary><strong>🎮 Favourite Moment</strong></summary>
+<blockquote style="font-style: italic; margin-top: 0.5em;">The first time I saw a guard on the opening level actually react to where you shot them as a 10 year old is forever etched into my mind. I could not believe that realism could exist in a video game - a few years later, when i was allowed to actually play the game, I used to love the 2nd level 'Facility', sneaking through the ventilation system above the bathroom stalls, dropping down behind an unsuspecting guard...</blockquote>
 </details>
 
 ---
@@ -64,13 +67,14 @@ Simply iconic. Rare took a movie license - something usually synonymous with dis
 
 **Platform:** PlayStation 3  
 **Developer:** Naughty Dog  
-**Year:** 2013
+**Year:** 2013  
+**Played:** 2018 (PlayStation 4)
 
-The Last of Us hit differently. Joel and Ellie's journey across a ruined America was emotionally devastating in ways few games achieve. But what really struck me was the weight of the gameplay. There was real heft to the violence, a desperation that matched the narrative. The way you interacted with the environment, scavenging for supplies, crafting makeshift weapons - everything reinforced the sense of survival. The ending too, remains one of gaming's most morally complex and unforgettable moments.
+Joel and Ellie's journey across a ruined America wrecked me in a way most games don't even try for. The violence has real heft - there's a desperation to every encounter that matches the story. Scavenging, crafting, the way every resource decision feels meaningful. And that ending. I'm not going to say what happens, just don't watch the TV series instead!
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">Two moments define this game for me: First, that initial stealth kill where you grab someone and brutally smash their head into the scenery - the visceral impact, the sound design, the weight of it made me go "wow, this is a serious game." Second, the giraffes in Salt Lake City. After hours of violence and darkness, just standing there watching them peacefully graze among the ruins, nature recaliming the world humanity destroyed- breathtaking.</blockquote>
+<summary><strong>🎮 Favourite Moment</strong></summary>
+<blockquote style="font-style: italic; margin-top: 0.5em;">Two moments define this game for me: First, that initial stealth kill where you grab someone and brutally smash their head into the scenery - the visceral impact, the sound design, the weight of it made me go "wow, this is a serious game." Second, the giraffes in Salt Lake City. After hours of violence and darkness, just standing there watching them peacefully graze among the ruins, nature reclaiming the world humanity destroyed - breathtaking.</blockquote>
 </details>
 
 ---
@@ -80,12 +84,13 @@ The Last of Us hit differently. Joel and Ellie's journey across a ruined America
 
 **Platform:** Super Nintendo  
 **Developer:** Square  
-**Year:** 1991
+**Year:** 1991  
+**Played:** 2006 (Game Boy Advance)
 
-Final Fantasy IV is really the first JRPG that knew what is was doing. It realised that for a JRPG to be successful, a robust battle system in a cool setting wasn't enougth, the crucial ingrediant is story. And FF4 told one with real emotional weight - betrayal, redemption, sacrifice. Indeed, Cecil's journey from Dark Knight to Paladin wasn't just a gameplay gimmick; it was character development that meant something. The cast rotated in and out, which was devastating when characters you'd grown attached to left. Tellah's revenge, Palom and Porom's sacrifice (made me cry), the trip to the moon. Not to mention the stunning soundtrack.
+The first JRPG that worked out what it was actually doing. A flashy battle system in a cool setting isn't enough - you need the story to carry weight, and FF4's does. Cecil's journey from Dark Knight to Paladin isn't a gimmick; it means something. The rotating cast is clever right up until the moment it devastates you, which it does. Tellah's revenge, Palom and Porom's sacrifice (genuinely made me cry), the trip to the moon. The soundtrack is also doing something remarkable throughout. (Better than FF6!)
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
+<summary><strong>🎮 Favourite Moment</strong></summary>
 <blockquote style="font-style: italic; margin-top: 0.5em;">It has to be Palom and Porom's sacrifice - still not got over it 20 years later</blockquote>
 </details>
 
@@ -98,10 +103,10 @@ Final Fantasy IV is really the first JRPG that knew what is was doing. It realis
 **Developer:** Subset Games  
 **Year:** 2012
 
-FTL is brutal, unforgiving, and absolutely brilliant. It's a roguelike space strategy game that creates emergent stories through its systems. Every run is different, every decision matters, and you will fail - repeatedly. But those failures create the best stories. Your Mantis boarding party gets stuck on an enemy ship as it explodes. Your weapons malfunction during a crucial battle. A solar flare kills half your crew. The game's genius is in how it makes you care about your randomly generated crew members within minutes, then rips them away. The pause-and-plan combat is tense, the ship customisation is deep, and the soundtrack is hauntingly perfect. It's "just one more run" incarnate.
+FTL is brutal and unforgiving, and somehow that's the whole appeal. It's a roguelike space strategy that generates stories through its systems rather than scripting them. Every run is different, every decision matters, and you will fail, repeatedly. But the failures are half the point: your Mantis boarding party gets stuck on an enemy ship as it explodes, a solar flare kills half your crew right before the final boss. The game makes you care about randomly generated crew members within minutes, then takes them away. It's "just one more run" incarnate.
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
+<summary><strong>🎮 Favourite Moment</strong></summary>
 <blockquote style="font-style: italic; margin-top: 0.5em;">Finally reaching the final boss flagship after dozens of failed runs, with a ship barely holding together and a skeleton crew. Every system is damaged, you're out of missiles, and your shield is down to one layer. But somehow, through desperate micro-management and sheer luck, you win. The relief is overwhelming</blockquote>
 </details>
 
@@ -112,12 +117,13 @@ FTL is brutal, unforgiving, and absolutely brilliant. It's a roguelike space str
 
 **Platform:** Xbox  
 **Developer:** BioWare  
-**Year:** 2003
+**Year:** 2003  
+**Played:** 2005
 
-BioWare took Star Wars to a place the movies never could - 4,000 years before the films, where they had freedom to tell their own story. And what a story. KOTOR delivered one of gaming's best plot twists, created memorable companions (HK-47's homicidal commentary alone is worth the price), and let you genuinely role-play as Jedi or Sith. The morality system had weight, the lightsaber combat felt powerful despite the D&D-style mechanics underneath, and exploring the Star Wars universe without movie constraints was liberating. It's the best Star Wars story outside the original trilogy.
+BioWare set this 4,000 years before the films, which gave them the freedom to build their own corner of that universe without anything getting in the way, and they used it well. HK-47's homicidal commentary alone is worth the price of admission. The twist is one of gaming's best - I won't say more. The morality system has actual weight and the lightsaber combat feels powerful. The best Star Wars story this side of the original trilogy.
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
+<summary><strong>🎮 Favourite Moment</strong></summary>
 <blockquote style="font-style: italic; margin-top: 0.5em;">The reveal on the Leviathan - that moment when everything clicks into place and you realize what you are. The game had been dropping hints throughout, but actually experiencing that twist was staggering. It recontextualized the entire journey and made you question every choice you'd made. Brilliant narrative design that only works in an interactive medium.</blockquote>
 </details>
 
@@ -128,13 +134,14 @@ BioWare took Star Wars to a place the movies never could - 4,000 years before th
 
 **Platform:** PC  
 **Developer:** LucasArts  
-**Year:** 1998
+**Year:** 1998  
+**Played:** 2004
 
-A film noir detective story set in the Land of the Dead with Mexican Day of the Dead aesthetics and Art Deco design. It shouldn't work, but it's one of gaming's most original and memorable experiences. Manny Calavera's four-year journey through the underworld is gripping. The writing is razor-sharp, with intriguing world-building. Whilst the puzzles were sometimes annoyingly obtuse (I hated looking up the guide), the atmosphere, story, and sheer creativity made it essential. It was criminally underappreciated at launch, but history has rightfully recognised it as one of the greatest adventure games ever made.
+A film noir detective story set in the Land of the Dead with Day of the Dead aesthetics and Art Deco design. It shouldn't work. It absolutely does. Manny Calavera's four-year journey through the underworld is gripping, the writing is sharp, and the world is unlike anything else in gaming. The puzzles are sometimes aggressively obtuse (I looked up the guide, I don't regret it), but the atmosphere and sheer strangeness carry everything. Slept on at launch and since then slowly elevated to exactly where it belongs.
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
-<blockquote style="font-style: italic; margin-top: 0.5em;">The seconed Casino chapter really stands out in my mind to this day - the syle and maturity of themes, the swelling jazz music, and how the narrative threads developed and came together. Probably the the first game that me realise that 'video games' were an art form on the level of film and books.</blockquote>
+<summary><strong>🎮 Favourite Moment</strong></summary>
+<blockquote style="font-style: italic; margin-top: 0.5em;">The second Casino chapter really stands out in my mind to this day - the style and maturity of themes, the swelling jazz music, and how the narrative threads developed and came together. Probably the first game that made me realise that 'video games' were an art form on the level of film and books.</blockquote>
 </details>
 
 ---
@@ -146,10 +153,10 @@ A film noir detective story set in the Land of the Dead with Mexican Day of the 
 **Developer:** HAL Laboratory  
 **Year:** 2001
 
-Melee was lightning in a bottle - a party game that accidentally became one of the most technical fighting games ever made. Nintendo's all-stars brawling on increasingly chaotic stages was fun enough, but the advanced techniques (wavedashing, L-canceling, directional influence) created a skill ceiling so high that people are still mastering it twenty years later. The roster was perfect, the stages were memorable, and the speed was just right - faster and tighter than the original, with more weight than later entries. It dominated competitive gaming for decades and still has a passionate scene. Four-player free-for-alls with items on high were chaos. One-on-one Fox dittos on Final Destination were intense technical showcases. Melee accommodated both and excelled at everything. It should be a Switch 2 remaster.....yet Nintendo seems to despise it? 
+A party game that accidentally became one of the most technical fighting games ever made. The advanced techniques (wavedashing, L-cancelling, directional influence) created a skill ceiling so high that people are still mastering it twenty years later - and Nintendo intended it as a Mario party game. I got deep into the competitive scene too: watching Mang0 vs Hungrybox in grands is some of the most tense viewing in esports, and that's not a sentence I expected to write about Jigglypuff. Four-player free-for-alls with items on were chaos. One-on-one Fox dittos on Final Destination were intense technical showcases. It handled both without breaking a sweat. It should be a Switch 2 remaster.....yet Nintendo seems to despise it?
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
+<summary><strong>🎮 Favourite Moment</strong></summary>
 <blockquote style="font-style: italic; margin-top: 0.5em;">Landing a fully charged Falcon Punch in a heated four-player match - the slow wind-up, the desperate hope that it connects, the explosive "YES!" when it sends someone flying off the screen. Or unlocking Mewtwo after hours of gameplay and discovering this floaty, weird, powerful character. I remember every unlock feeling like a Christmas morning.</blockquote>
 </details>
 
@@ -160,18 +167,19 @@ Melee was lightning in a bottle - a party game that accidentally became one of t
 
 **Platform:** PC  
 **Developer:** Westwood Studios  
-**Year:** 2000
+**Year:** 2000  
+**Played:** 2002
 
-Red Alert 2 is the most fun I've ever had with an RTS. Westwood fully embraced the camp: Soviet invasion of America with psychic commanders, Tesla coils, and Kirov airships; and created something gloriously absurd yet mechanically solid. The two campaigns were both ridiculous and engaging, with live-action cutscenes that knew exactly how silly they were. The Yuri's Revenge expansion made it even better. It was accessible enough for casual players but deep enough for competitive play. Peak RTS design wrapped in Cold War absurdity.
+Red Alert 2 is the most fun I've ever had with an RTS. Westwood leaned fully into the camp: Soviet invasion of America, psychic commanders, Tesla coils, Kirov airships, live-action cutscenes that knew exactly how ridiculous they were. Underneath all that it's mechanically solid, accessible without being shallow, and competitive without being impenetrable. The Yuri's Revenge expansion somehow made it even better. Just brilliant fun.
 
 <details>
-<summary><strong>🎮 Favorite Moment</strong></summary>
+<summary><strong>🎮 Favourite Moment</strong></summary>
 <blockquote style="font-style: italic; margin-top: 0.5em;">The Soviet campaign mission where you use mind-controlled squids to ruin the allied forces navy. It perfectly encapsulated Red Alert's joyous absurdity - historically themed strategy married to complete B-movie madness. The opening cut scene too, with Soviet's premier gleeful "why Mr President, whatever do you mean...?" followed by that pumping soundtrack</blockquote>
 </details>
 
 ---
 
-## Honorable Mentions
+## Honourable Mentions
 
 These almost made the list, and on another day, some of them might have:
 
