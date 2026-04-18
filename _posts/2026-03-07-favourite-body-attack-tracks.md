@@ -27,7 +27,7 @@ A euphoric trance anthem that somehow makes a warm-up feel like a rave. The kind
 **Artist:** Ava Max
 **Release:** BA 115
 
-The Toby Green Remix strips Ava Max's original back to something leaner and meaner. The chorus hits like a gear change - where your legs somehow find another level you didn't know was there.
+The Toby Green Remix strips Ava Max's original back to something leaner and meaner. The chorus hits like a gear change, where your legs somehow find another level you didn't know was there.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/uMShqw8_DxI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ What LUM!X does to Beyoncé's ballad should probably be illegal. Transforms one 
 **Artist:** Master Bazz
 **Release:** BA 95
 
-The greatest Body Attack track ever made. Not up for debate. The Bonkerz Remix takes an already brilliant song and turns it into something genuinely transcendent at peak cardio. The track that made me into a body attack regular
+The greatest Body Attack track ever made. Not up for debate. The Bonkerz Remix takes an already brilliant song and turns it into something else entirely at peak cardio. The track that made me into a Body Attack regular.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ltzEE6JJaDI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -63,7 +63,7 @@ The greatest Body Attack track ever made. Not up for debate. The Bonkerz Remix t
 **Artist:** CRMNL
 **Release:** BA 117
 
-A track that earns its title. CRMNL deliver something genuinely anthemic here — big, driving, and relentless in all the right ways for an athletic strength section. The kind of track that makes you feel like you're in a film montage rather than a gym class.
+A track that earns its title. CRMNL deliver something genuinely anthemic here. Big, driving, relentless. Exactly what an athletic strength section needs. The kind of track that makes you feel like you're in a film montage rather than a gym class.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/r90KK0IxfTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -87,7 +87,7 @@ The Topmodelz remix takes a-ha's immortal synth-pop classic and weaponises it. T
 **Artist:** Quickdrop
 **Release:** BA 119
 
-The Weeknd's global smash was always going to end up in a Body Attack class — it was practically engineered for it. The Quickdrop remix just makes it official. Fast, relentless, and familiar enough to feel like a reward when it drops.
+The Weeknd's global smash was always going to end up in a Body Attack class. It was practically engineered for it. The Quickdrop remix just makes it official. Fast, relentless, and familiar enough to feel like a reward when it drops.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/1ws1m-TD-yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -99,7 +99,7 @@ The Weeknd's global smash was always going to end up in a Body Attack class — 
 **Artist:** Power Music Workout
 **Release:** BA 70
 
-A surprising entry — Charlie Puth's softly emotional pop turned harder and more insistent. Works brilliantly as an interval track, where your heart rate is grateful for the slightly slower tempo but the drive never fully lets up.
+A surprising entry: Charlie Puth's softly emotional pop turned harder and more insistent. Works brilliantly as an interval track, where your heart rate is grateful for the slightly slower tempo but the drive never fully lets up.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/VAHQQ9hcofk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -111,7 +111,7 @@ A surprising entry — Charlie Puth's softly emotional pop turned harder and mor
 **Artist:** Technikore & Suae
 **Release:** BA 123
 
-One of the newer entries to earn a permanent place. Genuinely uplifting in a way that doesn't feel manufactured — the kind of track that arrives in the final push of a class and makes you think you might actually finish this without dying.
+One of the newer entries to earn a permanent place. Genuinely uplifting in a way that doesn't feel manufactured, the kind of track that arrives in the final push of a class and makes you think you might actually finish this without dying.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1em 0;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ql2LgdK8wNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
