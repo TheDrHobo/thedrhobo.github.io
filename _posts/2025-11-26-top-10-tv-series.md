@@ -19,7 +19,8 @@ These are 10 TV series (or specific seasons) that have stuck with me over the ye
 **Network:** BBC  
 **Year:** 1974-1976
 
-Ah, the inspiration for my alias and my childhood obsession - Doctor Who. A surprising entry in some respects, as I was in the only modern British generation that grew up without a live Doctor Who serial running regularly on TV. So it fell to my dad to indoctrinate me from an early age – and he did so intelligently, beginning with black and white episodes from the Hartnell and Troughton eras before allowing me to watch the peak Who eras of Pertwee and Baker. Indeed, it was hard to pick between Baker and Pertwee as my favourite, with the latter's excellent run of stories with Jo Grant and the Master (Season 8). However the winning combination of Tom Baker and Sarah Jane Smith with classics like 'The Seeds of Doom' and 'Genesis of the Daleks' was the difference. 
+Ah, the inspiration for my alias and my childhood obsession. A surprising entry in some respects, as I was in the only modern British generation that grew up without a live Doctor Who serial running regularly on TV. So it fell to my dad to indoctrinate me from an early age, and he did so intelligently, beginning with black and white episodes from the Hartnell and Troughton eras before letting me near the peak Who eras of Pertwee and Baker. It was hard to pick between them - Pertwee's run with Jo Grant and the Master (Season 8) comes very close. But the winning combination of Tom Baker and Sarah Jane Smith, with classics like 'The Seeds of Doom' and 'Genesis of the Daleks', just edges it.
+
 This show is probably why sci-fi is my favourite genre across all entertainment media and how I became such an avid reader. Growing up without access to the internet meant the only way to discover certain Dr. Who stories was by reading, and my love of second-hand bookshops and car boot sales came from 8-year-old me trying to find these often-elusive book copies of the missing TV episodes!
 
 <details>
@@ -42,7 +43,7 @@ This show is probably why sci-fi is my favourite genre across all entertainment 
 **Network:** Starz  
 **Year:** 2011
 
-John Hannah at his absolute best. The 'Roman' style dialogue throughout is incredible - savage, poetic, and endlessly quotable. I couldn't get into seasons 3 & 4 due to the lead actor change and the dialogue not quite hitting the same heights. But this prequel season? Perfection – blood, gore, intrigue, betrayal, love, and death. If Ridley Scott's Gladiator left you wanting more, then come here (not its sequel). Season 1 of Spartacus is also great, despite the poor opening episode – so make sure you get through it. Be warned too: if there was a higher rating than '18', this would certainly qualify. Definitely worth it though. Batiatus (John Hannah) is worth the price of admission alone.
+John Hannah at his absolute best. The 'Roman' style dialogue is incredible throughout - savage, poetic, endlessly quotable. Seasons 3 and 4 I couldn't get into after the lead actor change, but this prequel season? All the blood and gore and betrayal you could want, with actual heart underneath it. If Ridley Scott's Gladiator left you wanting more, come here (not its sequel). Season 1 is also great despite the poor opening episode, so push through it. Batiatus is worth the price of admission alone.
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
@@ -61,7 +62,7 @@ John Hannah at his absolute best. The 'Roman' style dialogue throughout is incre
 **Network:** Channel 4 / Netflix  
 **Year:** 2017
 
-Dark, twisted, and surprisingly heartfelt. Alex Lawther and Jessica Barden have incredible chemistry as two messed-up teenagers on a road trip that spirals brilliantly. The dry British humour is perfect for this story – I won't give spoilers, but you can't help but laugh at its most disturbing moments. Based on a graphic novel by the same name, this show is unmissable and underrated. Two great but painfully short seasons - so not a commitment to get into either.
+Darker than it looks, and more heartfelt than you'd expect. Alex Lawther and Jessica Barden have incredible chemistry as two messed-up teenagers on a road trip that spirals brilliantly. The dry British humour is perfect for this story - I won't give spoilers, but you can't help but laugh at its most disturbing moments. Based on a graphic novel by the same name, and two great but mercifully short seasons, so not a big commitment to get into it.
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
@@ -78,7 +79,7 @@ Dark, twisted, and surprisingly heartfelt. Alex Lawther and Jessica Barden have 
 **Network:** Starz  
 **Year:** 2015
 
-It is criminal that hardly anyone I know has seen this. I know it's 'Pirates', but this ain't the Depp Caribbean vintage, and with production values that rival Game of Thrones, it became something better than it had any right to be. Hard to pick a best season, but Season 2 is where this show hits its stride - the political manoeuvring, the action set pieces, and the character depth all come together. Toby Stephens as Flint is mesmerising, and the show treats piracy as the brutal business it was. So, so underrated – an absolute gem if you can get into it, and it's great across all four seasons.
+It is criminal that hardly anyone I know has seen this. I know it's 'Pirates', but this ain't the Depp Caribbean vintage. Hard to pick a best season, but Season 2 is where the show finds its stride - the political manoeuvring, the action, and the characters all click into place at once. Toby Stephens as Flint is something to watch. So underrated it's baffling, and great across all four seasons.
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
@@ -95,7 +96,7 @@ It is criminal that hardly anyone I know has seen this. I know it's 'Pirates', b
 **Network:** Fox  
 **Year:** 2001-2002
 
-The modern 'golden age' of TV began with shows like The Sopranos, The Wire, Six Feet Under, The West Wing, and of course 24. As a very young teen, it was 24 out of these five that was the most accessible, and it soon became a family event to watch the latest episode together. Of the many early great seasons, Season 1 has to be my pick, for it changed TV. Having 24 episodes, 24 hours, one insane day was revolutionary. Kiefer Sutherland makes Jack Bauer iconic from episode one. The tension never lets up, the twists keep coming, and that mole storyline? Gripping. Before it became repetitive in later seasons, this was groundbreaking action television. Not sure if it would hold up today, but man, it was peak entertainment at the time.
+The modern 'golden age' of TV began with shows like The Sopranos, The Wire, Six Feet Under, The West Wing, and of course 24. As a very young teen, 24 was the most accessible of those five, and it became a family event to watch the latest episode together. Season 1 is my pick - 24 episodes, 24 hours, one insane day was genuinely new. Kiefer Sutherland makes Jack Bauer iconic from episode one. The tension never lets up, the twists keep coming, and that mole storyline is gripping. Before it became repetitive in later seasons, this was something special.
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
@@ -112,7 +113,7 @@ The modern 'golden age' of TV began with shows like The Sopranos, The Wire, Six 
 **Network:** AMC  
 **Year:** 2012-2013
 
-The obvious entry into this list, and I can't deny its cultural power – it must be on here. In fact, any top ten TV series list without Breaking Bad would be de-facto invalid. It's perhaps also the only TV series in which each season improves, hence why Season 5 is my favourite. It is the perfect ending to one of TV's greatest shows. Walter White's transformation is complete - this is Heisenberg at his most dangerous and most tragic. The final run of episodes is masterclass television, with every storyline paying off perfectly. Cranston and Paul at their absolute best, delivering an ending that stuck the landing – unlike certain other TV shows on this list...
+The obvious entry, and I can't deny it. Any top ten TV list without Breaking Bad is effectively invalid. Season 5 is my pick because it's the only show where every season genuinely improves. Walter White's transformation is complete - this is Heisenberg at his most reckless and most tragic. The final run of episodes pays off everything, and Cranston and Paul are both extraordinary throughout. An ending that stuck the landing, unlike certain other TV shows on this list...
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
@@ -134,7 +135,7 @@ The obvious entry into this list, and I can't deny its cultural power – it mus
 **Network:** HBO  
 **Year:** 2011
 
-You had one job, David Benioff and D.B. Weiss, and you did it perfectly for three seasons and nine episodes: faithfully adapt George R.R. Martin's A Song of Ice and Fire. The less said the better about the final few seasons. However, those first four were quite incredible. Until Game of Thrones, I thought I hated fantasy, especially high fantasy, as a genre – until I watched Season 1 in 2011. I immediately devoured all the books and also tried other fantasy authors (looking forward to a Joe Abercrombie adaptation in the future), such was the first season's impact on me. I loved the fact it was based upon political interests and intrigue, not good vs evil for the sake of being good or evil. Having believable characters caught between difficult moral decisions was immensely appealing to me - and this show brought the book to the screen with perfect casting and faithful adaptation, whilst even improving on parts. No matter how many times I re-watch Season 1, I'm still shocked to see Ned Stark's decapitation.
+You had one job, Benioff and Weiss, and you did it perfectly for three seasons and nine episodes. The less said the better about the final few seasons. But those first four were something. I'd thought I hated fantasy until Season 1 in 2011. What got me was that it's built on political interests and intrigue, not good versus evil for its own sake. Characters caught between real moral choices. The casting was extraordinary and the adaptation was faithful while also improving on parts. No matter how many times I re-watch Season 1, I'm still shocked to see Ned Stark's decapitation.
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
@@ -156,7 +157,7 @@ You had one job, David Benioff and D.B. Weiss, and you did it perfectly for thre
 **Network:** Crackle / Netflix  
 **Year:** 2017
 
-I don't actually know anyone who has seen this series. It's perhaps the least 'acclaimed' series on my list, but one I thoroughly enjoyed nonetheless. It's an underrated gem about cryptocurrency, crime, and capitalism. It helps that I'm a fan of Adam Brody too. The series revolves around three very different people forced together as two very different worlds collide: tech startups and gang violence, and in the process also provides a bit of a deep dive of a city I knew nothing about – Miami. I've gone for Season 2 as the best of the three; it ramps up everything - the stakes are higher, the choices darker, and the consequences sometimes brutal. Give it a try if you liked Ozark (unfortunately Season 3 is probably worth missing).
+I don't actually know anyone who has seen this series. Essentially it's about what happens when a tech startup, a desperate banker, and a gang in Miami collide around a new cryptocurrency. I'm a fan of Adam Brody too, which helps. Season 2 ramps everything up - the stakes are higher, the choices darker, the consequences sometimes brutal. Give it a try if you liked Ozark. Season 3 is probably worth skipping.
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
@@ -175,7 +176,7 @@ I don't actually know anyone who has seen this series. It's perhaps the least 'a
 **Network:** Sci-Fi Channel  
 **Year:** 2000-2001
 
-Another nostalgia choice. I associate this one with my younger sister – during our bickering early teens, this was the one thing we would agree on. Farscape became a weekly tradition for us during its runtime on BBC at around 6:30pm. It's hugely imaginative with clever dialogue, humour, and such grand ambition in the design of its aliens and worlds. Takes you on a journey with an eclectic mix of characters that are constantly tried and tested in unique situations. Also, it's mostly done with prosthetics, puppetry, and costume - rather than a heavy reliance on CGI. And yes, it is better than Firefly. As for the best season – and they're all pretty good with the odd cringey filler episode – it's a close run between 2 and 3. The latter is more consistent, but having the dynamic of the original crew is what edges it for Season 2.
+Another nostalgia choice. I associate this one with my younger sister - during our bickering early teens, this was the one thing we agreed on. Farscape became a weekly tradition during its run on BBC at around 6:30pm. It's hugely imaginative, the alien designs hold up (mostly practical effects rather than CGI), and the dialogue is clever enough to carry the quieter episodes. The characters are an eclectic bunch tested in genuinely unpredictable situations. And yes, it is better than Firefly.
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
@@ -197,7 +198,7 @@ Another nostalgia choice. I associate this one with my younger sister – during
 **Network:** BBC Two  
 **Year:** 2001-2003
 
-The cringe is unbearable....but in the best way; you watch through your fingers, but you can't look away. It is such a unique viewing experience, especially the first time you see it - nothing like at all (except maybe 'This Country'). Unlike the US Office version, which became warm and fuzzy, this stays brutal, awkward, and painfully real. Only two seasons plus specials, but every episode lands. The documentary style, the uncomfortable silences, the truth about office life - comedy excellence.
+The cringe is unbearable, in the best way. You watch through your fingers, but you can't look away. There's nothing quite like it, except maybe 'This Country'. Unlike the US version, which softened into warmth over time, this stays brutal, awkward, and painfully real. Only two seasons plus specials, but every episode lands.
 
 <details>
 <summary><strong>💬 Favourite Quote</strong></summary>
@@ -210,7 +211,7 @@ The cringe is unbearable....but in the best way; you watch through your fingers,
 
 ---
 
-## Honorable Mentions
+## Honourable Mentions
 
 These almost made the list, and on another day, some of them might have:
 
@@ -252,4 +253,3 @@ These almost made the list, and on another day, some of them might have:
 ---
 
 *What are your top TV series? Disagree with my picks? Drop a comment and let me know what I'm missing!*
-
