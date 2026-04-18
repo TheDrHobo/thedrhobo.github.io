@@ -7,7 +7,7 @@ tags: [books, comics, graphicnovels, top5]
 image: graphicnovels/graphic-novels-header.jpg
 ---
 
-I'll be honest — I haven't read nearly enough graphic novels to justify a top 10, but the ones I have read have genuinely floored me. These five aren't just good comics, they're great pieces of storytelling, full stop. As of March 2026.
+I'll be honest, I haven't read nearly enough graphic novels to justify a top 10, but the ones I have read have genuinely floored me. These five aren't just good comics, they're great pieces of storytelling, full stop. As of March 2026.
 
 ---
 
@@ -18,7 +18,7 @@ I'll be honest — I haven't read nearly enough graphic novels to justify a top 
 **Artist:** Dave Gibbons
 **Year:** 1986–87
 
-*Watchmen* isn't just the best graphic novel I've read — it's one of the most meticulously constructed pieces of fiction I've ever encountered, in any medium. Indeed, Moore purposefully wrote it for the graphic novel medium and his refusal to be involved in any adaption, hints at its immense quality.  If you've only seen the film or the TV series, do yourself a favour and read the source material, it's on another level entirely.
+*Watchmen* isn't just the best graphic novel I've read, it's one of the most carefully constructed pieces of fiction I've read, in any medium. Moore purposefully wrote it for the graphic novel medium, and his refusal to be involved in any adaptation says everything about how he feels about what's been done with it. If you've only seen the film or the TV series, do yourself a favour and read the source material, it's on another level entirely.
 
 ---
 
@@ -29,7 +29,7 @@ I'll be honest — I haven't read nearly enough graphic novels to justify a top 
 **Artist:** Art Spiegelman
 **Year:** 1980–91
 
-The book that proved graphic novels deserve to sit alongside any serious literature. *Maus* is Art Spiegelman's account of his father Vladek's survival through the Holocaust, told with Jews as mice and Nazis as cats. That premise sounds like it might trivialise things — it absolutely doesn't. My first introduction into graphic novels and is why i'm keen to discover more.
+*Maus* is Art Spiegelman's account of his father Vladek's survival through the Holocaust, told with Jews as mice and Nazis as cats. That premise sounds like it might trivialise things. It absolutely doesn't. My first introduction to graphic novels, and is why I'm keen to discover more.
 
 ---
 
@@ -51,7 +51,7 @@ Joe Sacco spent time in the West Bank and Gaza in the early 90s and came back wi
 **Artist:** Pia Guerra
 **Year:** 2002–08
 
-The premise — a plague wipes out every mammal with a Y chromosome except one hapless young man and his pet monkey — sounds like it could easily tip into exploitation or farce. Instead, it's a moving, funny, and politically sharp story about gender, survival, and what society looks like when you strip out half of it. The ending is surprisingly satisfying. Unfortunately the TV adaptation flopped as it was worried about being 'PC'; just read the comics.
+The premise — a plague wipes out every mammal with a Y chromosome except one hapless young man and his pet monkey — sounds like it could easily tip into exploitation or farce. Instead, it's sharp, funny and far more politically engaged than the premise suggests, telling a story about gender and survival that actually takes itself seriously. The ending is surprisingly satisfying. Unfortunately the TV adaptation flopped as it was worried about being 'PC'; just read the comics.
 
 ---
 
@@ -62,7 +62,7 @@ The premise — a plague wipes out every mammal with a Y chromosome except one h
 **Artist:** Various
 **Year:** 2002–15
 
-The concept is irresistible and mad: fairy tale characters — Snow White, Bigby Wolf, Prince Charming, Bluebeard — driven out of their magical homelands by a mysterious Adversary and now living secretly in New York City. What Willingham does with that setup is surprising and consistently clever. Although I only fell in the love with the first volume, it starts as a noir mystery, the series does expand into an epic spanning centuries that received critical acclaim. A shout out too for its companion piece 'the wolf among us' - an excellent point and click game by telltale.
+The concept is irresistible and mad: fairy tale characters — Snow White, Bigby Wolf, Prince Charming, Bluebeard — driven out of their magical homelands by a mysterious Adversary and now living secretly in New York City. What Willingham does with that setup is surprising and consistently clever. I only really fell in love with the first volume, which starts as a noir mystery before expanding into an epic spanning centuries with a devoted following. A shout out too for its companion piece *The Wolf Among Us*, an excellent point-and-click game by Telltale.
 
 ---
 
