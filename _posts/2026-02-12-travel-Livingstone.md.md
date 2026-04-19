@@ -11,22 +11,22 @@ This is the second in a series of five about my favourite places visited whilst 
 
 ---
 
-## Victroia Falls, Zambia
+## Victoria Falls, Zambia
 
 **Last visit:** April 2013  
 **Vibe:** Adrenaline capital meets natural wonder
 
-Zambia still evokes age-old African tropes of timelessness, poverty and tribalism for many people. It's a country that sounds distinctively African but remains largely unknown. Despite hosting the UN World Tourism Organisation's (UNWTO) world assembly in August 2013, Zambia is still difficult to place on the map - sandwiched as it is between news-loud neighbours Zimbabwe and the Congo. However, the UNWTO event has gone some way to remedy Zambia's silent rise as an attractive tourist destination. From the minute you land in Lusaka, the nation's rapidly modernising capital, everything seems designed to undermine stereotypical understandings of sub-Saharan Africa. 
+Zambia still conjures up the tired African clichés for a lot of people: poverty, tribalism, timelessness. It's a country that barely registers on the map, sandwiched between its louder neighbours Zimbabwe and the Congo. That's a shame because the place is moving fast. Lusaka is a surprisingly modern capital, and hosted the UN's tourism assembly the year I visited. Not what I'd expected, which probably says more about my expectations than about Zambia.
 
 <img src="{{ site.github.url }}/assets/img/Zambia/paul-milley-fS_UGUadwbA-unsplash.jpg" alt="Victoria Falls" title="Victoria Falls - Photo by Paul Milley on Unsplash" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
-The moment from Livingstone that will stick with you for a lifetime isn't the terrifying bungee jump, nor the extreme grade 5+ white water rafting - it's simply walking in Victoria Falls National Park. The lush tropical setting, its cheeky sandwich-stealing monkeys, and the nervous excitement of knowing something spectacular is around the corner create an atmosphere that gives you a feeling of kinship with the great explorer Dr Livingstone himself.
+Plenty of people go to Livingstone for the bungee jump or the grade 5 white water rafting. For me the best bit was just walking around Victoria Falls National Park. Tropical foliage, the odd sandwich-stealing monkey, and the slightly nervous feeling you get when you know you're about to see something enormous. Easy to see why Dr Livingstone got obsessed with the place.
 
-Despite being surrounded by camera-wielding tourists, the park still holds an aspect of rawness. Crossing the Indiana Jones-styled bridge to the cliff stack that sits right in front of the falls, dressed only in boots, shorts and a hat, is nothing short of amazing. There's something primal and Eden-like about dancing, wet-through, on a cliff edge, surrounded by a perpetual rainbow whilst facing the world's greatest waterfall.
+Despite the tour groups and the camera phones, the place still feels raw. You cross this Indiana Jones-style bridge to a cliff stack that sits right in front of the falls, dressed only in boots, shorts and a hat, and end up dancing soaking wet on a cliff edge with a permanent rainbow overhead and Victoria Falls right there in front of you. Not bad for a day out.
 
-The surrounding area offers cultural experiences too - the royal Kuomboka ceremony celebrates the flooding of the Zambezi River with a procession led by the king of the Lozi people, an annual tradition dating back 300 years. The sudden appearance of the Lozi King dressed as a Victorian ambassador brings home the slight madness we all love in royal ceremonies.
+There's culture on tap too. The Lozi people hold an annual ceremony called the Kuomboka to celebrate the Zambezi flooding, and the king leads the procession. It's 300 years old and has one detail I can't get over: the king turns up dressed as a Victorian ambassador. Every royal ceremony should have something that weird.
 
-**In sum:** A definite must if you're into outdoor activities and don't mind sharing Victoria Falls with tour groups. Not so much if you're looking for undiscovered Africa or avoiding tourist infrastructure - see extract below for more of the latter!
+**In sum:** A must if you're into outdoor adventure and don't mind sharing the falls with tour groups. Not so much if you're looking for undiscovered Africa or avoiding tourist infrastructure - see the extract below for more of that.
 
 ---
 
@@ -63,14 +63,16 @@ Being the hero that I am, I told Julia of my kayaking qualifications and that I 
 
 <img src="{{ site.github.url }}/assets/img/Zambia/A_FALCON_FLIES.jpg" alt="A Falcon Flies book cover" title="A Falcon Flies by Wilbur Smith" style="float: right; margin: 0 0 1em 1em; max-width: 300px; width: 100%;">
 
-Long before I ever set foot in Zambia, I was obsessed with Wilbur Smith's adventure novels set in southern Africa. Reading them in my late teens, Smith's vivid descriptions of the Zambezi Valley - the wildlife, the landscape, the raw adventure of it all - planted the seed that eventually grew into an actual trip years later.
+Long before I set foot in Zambia, I was obsessed with Wilbur Smith's adventure novels set in southern Africa. I read them in my late teens, and his descriptions of the Zambezi Valley - the wildlife, the landscape, the general chaos - stuck with me. Years later I finally made it out there.
 
-*A Falcon Flies*, the first in his Ballantyne series, follows Dr Robyn Ballantyne and her brother Zouga as they journey up the Zambezi River in 1860, searching for their missing father. Smith's trademark attention to the landscape's brutal beauty and the ever-present danger of the river - hippos, crocodiles, rapids - wasn't exaggeration. If anything, experiencing it firsthand made me appreciate how accurately he captured that mix of terror and exhilaration that comes with being on the Zambezi in a dugout canoe.
+*A Falcon Flies*, the first in his Ballantyne series, follows Dr Robyn Ballantyne and her brother Zouga as they head up the Zambezi in 1860 looking for their missing father. Smith doesn't undersell the river: the hippos, the crocodiles, the rapids. All still there when I eventually paddled it myself in a dugout. He wasn't exaggerating.
 
-When those fishermen's nephews started complaining about hippos during my canoe journey, or when Auntie Julia casually warned about crocodiles before I paddled her nephews around, I couldn't help but think: "Wilbur Smith prepared me for this moment." He really didn't, of course - but it felt romantic to think so.
+When Auntie Julia casually warned me about crocodiles before I paddled her nephews around, I kept thinking: "Wilbur Smith prepared me for this moment." He really didn't, of course. But it felt romantic to pretend he had.
 
 <div style="clear: both;"></div>
 
 ---
 
 *Next in the series: Brazil, Trancoso*
+
+---
