@@ -16,7 +16,7 @@ This is part of a series on my favourite places visited whilst backpacking.
 **Last visit:** July 2014  
 **Vibe:** Barefoot surf town with a side of jungle magic
 
-July 2014 in Brazil was mad. I was working at a hostel in Vitória, serving caipirinhas to people glued to the World Cup. When England crashed out early and the place emptied, I headed south for somewhere quieter.
+July 2014 in Brazil was mad. I was working at a hostel in Vitória, serving caipirinhas to people glued to the World Cup. When England crashed out early and the place emptied, I headed north for somewhere quieter.
 
 Itacaré is a small surf town on the southern Bahia coast. Rainforest one side, ocean the other. No traffic lights. The main street is a lazy stretch of surf shops, juice bars and restaurant terraces, with hammocks instead of chairs. Everything runs at about half the pace you think it should, and within a day you stop fighting it.
 
