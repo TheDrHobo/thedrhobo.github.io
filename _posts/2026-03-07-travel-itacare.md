@@ -16,17 +16,15 @@ This is part of a series on my favourite places visited whilst backpacking.
 **Last visit:** July 2014  
 **Vibe:** Barefoot surf town with a side of jungle magic
 
-Brazil in July 2014 was a country in the grip of a very particular kind of madness. The World Cup had turned the whole nation into a theatre of extremes — euphoria, protest, and somewhere in the middle, a gringo working in a hostel in Vitória, doing his best to serve caipirinhas fast enough to keep pace with the goals. When England crashed out early and the circus moved on, I headed south to decompress somewhere the football couldn't find me.
+July 2014 in Brazil was mad. I was working at a hostel in Vitória, serving caipirinhas to people glued to the World Cup. When England crashed out early and the place emptied, I headed south for somewhere quieter.
 
-Itacaré found me instead.
+Itacaré is a small surf town on the southern Bahia coast. Rainforest one side, ocean the other. No traffic lights. The main street is a lazy stretch of surf shops, juice bars and restaurant terraces, with hammocks instead of chairs. Everything runs at about half the pace you think it should, and within a day you stop fighting it.
 
-A small town on the southern Bahia coast, wedged between the Atlantic rainforest and the Atlantic Ocean, Itacaré runs at a pace that makes you reconsider everything you thought was urgent. There are no traffic lights. The main street is a lazy curve of surf shops, juice bars, and restaurant terraces where hammocks double as furniture. The rhythm here is set by the tides, and if you can't adjust to that within 24 hours, the town will quietly wait you out.
-
-The surf culture is real, and it brings with it the universal currency of surf towns worldwide: a mild but unmistakable arrogance. The local surfers are genuinely good — Itacaré's beach breaks and point breaks have been drawing serious wave hunters for decades — and they know it. As a non-surfer you are tolerated warmly, perhaps even welcomed, as long as you understand your place in the food chain. I understood my place immediately and settled into it with no complaints.
+The surf culture is real, and it comes with the usual surf-town attitude: a mild but unmistakable arrogance. Itacaré's beach breaks and point breaks have been pulling serious wave hunters here for decades, and the locals know it. As a non-surfer you're tolerated as long as you know your place. I knew mine and got on with it.
 
 <img src="{{ site.github.url }}/assets/img/itacare/surf-beach.jpg" alt="Surf beach, Itacaré" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
-The beaches themselves don't compete for your attention — they simply reveal themselves, one after another, each requiring a short trek through Atlantic rainforest to reach. Prainha, Engenhoca, Havaizinho. You earn each one with a sweaty twenty-minute walk, which means that by the time you arrive, you've usually got the place almost to yourself. That trade-off — mild effort for near-total solitude — never gets old.
+The beaches don't really compete with each other. Each one needs a short trek through the rainforest to get to: Prainha, Engenhoca, Havaizinho. About twenty sweaty minutes a piece. The pay-off is that by the time you turn up you've usually got the place to yourself.
 
 <img src="{{ site.github.url }}/assets/img/itacare/coroinha-beach.jpg" alt="Coroinha Beach, Itacaré" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
@@ -34,21 +32,21 @@ The beaches themselves don't compete for your attention — they simply reveal t
 
 ## The Cleandro Waterfalls
 
-The highlight, though, came not from the ocean but from the river.
+The best bit wasn't the beaches though. It was a day on the river.
 
-Having picked up a fellow traveller at the hostel — the kind of easy friendship that forms within about twenty minutes when you're both killing time in a hammock — we rented canoes from the beach and set off up the Rio das Contas under our own steam. Nobody guided us. Nobody particularly warned us. We just went.
+I'd made friends with another bloke at the hostel, as you do, and we rented canoes from the beach and set off up the Rio das Contas. Nobody guided us, nobody warned us about anything. We just went.
 
-Paddling against the current on the way out is a workout you don't fully appreciate until you stop, at which point the river immediately begins returning you to where you started. The reward for persistence is a tunnel of mangroves so dense and low that you find yourself ducking instinctively, watching the roots dip into the dark water on either side — other-worldly in a way that reminds you that Brazil's ecological diversity is not a tourism slogan, it is simply a fact.
+Paddling against the current is the kind of workout you don't notice until you stop, and then the river just quietly carries you back the way you came. After a while it narrows into a tunnel of mangroves, dense and low enough that you end up ducking, with roots dipping into the dark water on either side. Felt like another planet.
 
 <img src="{{ site.github.url }}/assets/img/itacare/canoe.jpg" alt="Canoeing the Rio das Contas, Itacaré" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
-At the end of it, the Cleandro Waterfalls — properly known as the Cachoeira do Rio do Engenho — reveal themselves in a series of cascades dropping into natural pools cool enough to make you gasp. After the heat of Bahia in July, swimming beneath them while the canoe bobs nearby in the mangrove shade is about as close to perfection as a Tuesday afternoon can get.
+At the end you reach the Cleandro Waterfalls (properly the Cachoeira do Rio do Engenho), a few cascades dropping into pools cold enough to make you gasp. After a sweaty paddle in Bahia heat, swimming under them with the canoe bobbing nearby in the mangrove shade is hard to beat.
 
 <img src="{{ site.github.url }}/assets/img/itacare/cfalls.jpg" alt="Cleandro Waterfalls, Itacaré" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
-The paddle back, with the current doing most of the work, felt like a reward well earned.
+The paddle back, with the current doing the work for us, felt earned.
 
-**In sum:** Essential if you want Brazil without the infrastructure — raw beaches, proper jungle, and a pace of life that will recalibrate your sense of urgency within about forty-eight hours. Not ideal if you need WiFi that works or a menu in English. Perfectly ideal if you don't.
+**In sum:** Essential if you want Brazil without the polish: raw beaches, proper jungle, and a pace that'll slow you down within a day or two. Skip it if you need reliable WiFi or English menus. Perfect if you don't.
 
 ---
 
