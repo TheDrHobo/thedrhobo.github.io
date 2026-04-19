@@ -7,6 +7,8 @@ tags: [travel, vitoria, brazil, climbing, adventure]
 image: vitoria/rock-from-below.jpg
 ---
 
+*Originally written July 2014, at the tail end of six weeks living and working in Vitória. Lightly edited and refurbished for this site in 2026.*
+
 Some hills are best admired from a distance. This is the story of a hill I refused to admire from a distance.
 
 ---
