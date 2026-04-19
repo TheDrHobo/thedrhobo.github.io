@@ -31,6 +31,8 @@ I'll be honest, I haven't read nearly enough graphic novels to justify a top 10,
 
 *Maus* is Art Spiegelman's account of his father Vladek's survival through the Holocaust, told with Jews as mice and Nazis as cats. That premise sounds like it might trivialise things. It absolutely doesn't. My first introduction to graphic novels, and is why I'm keen to discover more.
 
+<div style="clear: both;"></div>
+
 ---
 
 ## Palestine
