@@ -144,4 +144,10 @@ These almost made the list, and on another day, some of them might have:
 
 ---
 
+If that's your sort of thing, my [top 10 Jim Steinman songs](/top-10-jim-steinman-songs) sits at the opposite end of the same instinct. Waits writes small and Steinman writes enormous, and I've got time for both. "I Hope That I Don't Fall in Love with You" also made my [top 10 songs of all time](/top-10-songs).
+
+Waits spent a career writing about people who couldn't stay put, which is probably why I've never quite shaken the travelling thing either. There's an old essay of mine on that, [I'm a Traveller, Not a Tourist](/traveller-not-tourist), and the travel posts themselves, starting with [Itacaré in Brazil](/travel-itacare) and [Victoria Falls in Zambia](/travel-Livingstone).
+
+---
+
 *What are your favourite Tom Waits songs? Drop a comment and let me know what I'm missing.*

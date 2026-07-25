@@ -5,9 +5,13 @@ author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, zambia, victoria-falls]
 image: VictoriaFalls.jpg
+seo_title: "Victoria Falls, Zambia, and Wilbur Smith's Zambezi"
+description: "Victoria Falls and the Zambezi in April 2013: walking the park, hitching to Sioma Falls, and the Wilbur Smith novel that got me there in the first place."
+redirect_from:
+  - /travel-Livingstone.md/
 ---
 
-This is the second in a series of five about my favourite places visited whilst backpacking.
+This is the second in a series of five about my favourite places visited whilst backpacking. The first was [Yangshuo, China](/travel-yangshuo).
 
 ---
 
@@ -63,7 +67,7 @@ Being the hero that I am, I told Julia of my kayaking qualifications and that I 
 
 <img src="{{ site.github.url }}/assets/img/Zambia/A_FALCON_FLIES.jpg" alt="A Falcon Flies book cover" title="A Falcon Flies by Wilbur Smith" style="float: right; margin: 0 0 1em 1em; max-width: 300px; width: 100%;">
 
-Long before I set foot in Zambia, I was obsessed with Wilbur Smith's adventure novels set in southern Africa. I read them in my late teens, and his descriptions of the Zambezi Valley - the wildlife, the landscape, the general chaos - stuck with me. Years later I finally made it out there.
+Long before I set foot in Zambia, I was obsessed with Wilbur Smith's adventure novels set in southern Africa. I read them in my late teens, and his descriptions of the Zambezi Valley - the wildlife, the landscape, the general chaos - stuck with me. His *River God* still sits in my [top 10 books](/top-10-books). Years later I finally made it out there.
 
 *A Falcon Flies*, the first in his Ballantyne series, follows Dr Robyn Ballantyne and her brother Zouga as they head up the Zambezi in 1860 looking for their missing father. Smith doesn't undersell the river: the hippos, the crocodiles, the rapids. All still there when I eventually paddled it myself in a dugout. He wasn't exaggerating.
 
@@ -73,6 +77,8 @@ When Auntie Julia casually warned me about crocodiles before I paddled her nephe
 
 ---
 
-*Next in the series: Brazil, Trancoso*
+*Next in the series: [Itacaré, Brazil](/travel-itacare)*
+
+*This trip is also what prompted [I'm a Traveller, Not a Tourist](/traveller-not-tourist), written a few weeks later.*
 
 ---

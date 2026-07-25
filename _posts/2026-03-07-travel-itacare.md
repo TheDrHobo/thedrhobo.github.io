@@ -5,9 +5,11 @@ author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, brazil, itacare, bahia]
 image: itacare/itacare-header.jpg
+seo_title: "Itacaré, Brazil: A Backpacker's Diary from Bahia"
+description: "My July 2014 trip to Itacaré, Bahia: rainforest treks down to Prainha and Engenhoca, and canoeing up the Rio das Contas to the Cleandro Waterfalls."
 ---
 
-This is part of a series on my favourite places visited whilst backpacking.
+This is the third in a series of five about my favourite places visited whilst backpacking. The second was [Victoria Falls, Zambia](/travel-Livingstone).
 
 ---
 
@@ -16,7 +18,7 @@ This is part of a series on my favourite places visited whilst backpacking.
 **Last visit:** July 2014  
 **Vibe:** Barefoot surf town with a side of jungle magic
 
-July 2014 in Brazil was mad. I was working at a hostel in Vitória, serving caipirinhas to people glued to the World Cup. When England crashed out early and the place emptied, I headed north for somewhere quieter.
+July 2014 in Brazil was mad. I was working at a hostel in Vitória, serving caipirinhas to people glued to the World Cup, and in between shifts I'd been [climbing the rock that glares down over the city](/vitoria-rock-with-two-eyes). When England crashed out early and the place emptied, I headed north for somewhere quieter.
 
 Itacaré is a small surf town on the southern Bahia coast. Rainforest one side, ocean the other. No traffic lights. The main street is a lazy stretch of surf shops, juice bars and restaurant terraces, with hammocks instead of chairs. Everything runs at about half the pace you think it should, and within a day you stop fighting it.
 
@@ -63,3 +65,7 @@ I made it though — indeed, I'm writing this from the train right now. It's gre
 <img src="{{ site.github.url }}/assets/img/itacare/train.jpg" alt="The train from Vitória to Belo Horizonte" style="display: block; margin: 1em auto; max-width: 800px; width: 100%;">
 
 Anyway, with no firm plans yet for tonight's accommodation, or any knowledge of how to get from Belo Horizonte station to Ouro Preto at 10pm, I leave you all in Vitória whilst clinging on a wing and a prayer.
+
+---
+
+*More from the same trip: [The Rock with Two Eyes](/vitoria-rock-with-two-eyes), the hill I climbed while living in Vitória. Earlier in the series: [Yangshuo, China](/travel-yangshuo) and [Victoria Falls, Zambia](/travel-Livingstone).*

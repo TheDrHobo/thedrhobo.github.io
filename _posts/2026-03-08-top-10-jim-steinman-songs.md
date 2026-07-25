@@ -5,6 +5,8 @@ author: "Dr Hobo"
 categories: music
 tags: [music, steinman, meatloaf, top10]
 image: steinman-header.jpg
+seo_title: "Top 10 Jim Steinman Songs: Meat Loaf, Bonnie Tyler & More"
+description: "My ten favourite Jim Steinman songs, each with a video: Nowhere Fast, Total Eclipse of the Heart, Making Love Out of Nothing at All, Bat Out of Hell and more."
 ---
 
 Jim Steinman treated every song like a Wagner opera and every lyric like a doomed love affair conducted at 100mph. His partnership with Meat Loaf produced one of the best-selling albums of all time, but their relationship was famously complicated. They fell out spectacularly after *Bat Out of Hell*, with Steinman releasing *Bad for Good* (1981) - the intended sequel - under his own name when Meat Loaf was unavailable. Yet despite the rows, the lawsuits, and the years apart, they always found their way back to each other. By all accounts they remained genuinely devoted friends until Steinman's death in 2021. These are my favourite ten of his songs, from a catalogue that spans Meat Loaf, Bonnie Tyler, Air Supply, Celine Dion and beyond. As of March 2026.

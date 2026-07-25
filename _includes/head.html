@@ -1,11 +1,7 @@
 <head>
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} | {{ site.description }}
-    {% else %}
-      {{ page.title }} | {{ site.title }}
-    {% endif %}
-  </title>
+  {% if page.title == "Home" %}<title>{{ site.title }} | {{ site.description }}</title>
+  {% elsif page.seo_title %}<title>{{ page.seo_title }}</title>
+  {% else %}<title>{{ page.title }} | {{ site.title }}</title>{% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
@@ -30,5 +26,5 @@
     gtag('config', 'G-WXZCVVY4G5');
   </script>
   <!-- Use Jekyll SEO plugin -->
-  {% seo %}
+  {% seo title=false %}
 </head>

@@ -5,13 +5,15 @@ author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, essay]
 image: backpacking.jpg
+seo_title: "I'm a Traveller, Not a Tourist: A Backpacking Essay"
+description: "An essay on whether backpackers are really travellers or just tourists on a budget, written in 2013 after a canoe trip down the Zambezi."
 ---
 
 *Originally written May 2013, shortly after a canoe trip down the Zambezi. Lightly edited and refurbished for this site in 2026.*
 
 ---
 
-Three people sit around a campfire in the wild, next to the crocodile-infested Zambezi River. They're part of a canoe expedition run by an adventure company. Who is the tourist?
+Three people sit around a campfire in the wild, next to the crocodile-infested [Zambezi River](/travel-Livingstone). They're part of a canoe expedition run by an adventure company. Who is the tourist?
 
 One is on holiday for two weeks, another is a travelling volunteer, and the third is on a year-long round-the-world trip. That all three are involved in an activity designed for tourists, and none are on a packaged holiday trip, makes this question more difficult than expected. Add to the mix that one of the three is offended to be labelled a tourist, and you have the makings of a common backpacker debate, one that's played out in youth hostels across the world.
 

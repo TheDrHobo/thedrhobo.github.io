@@ -5,13 +5,17 @@ author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, china, yangshuo]
 image: yangshuo-header.jpg
+seo_title: "Yangshuo, China: Four Visits and The Painted Veil"
+description: "Four visits to Yangshuo between 2010 and 2017, from Dragon Bridge to Xing Ping, plus the karst landscape used as the setting for The Painted Veil (2006)."
+redirect_from:
+  - /travel-yangshuo.md/
 ---
 
 This is the first in a series of five posts about my favourite places visited whilst 'backpacking' i.e. travelling without a suitcase, without much of a plan, and trying not to worry too much about accommodation!
 
 ---
 
-## Yangshuo, China
+## Yangshuo, China: Four Visits, 2010 to 2017
 
 **Last visit:** December 2017  
 **Vibe:** Outdoor adventure playground meets backpacker social hub
@@ -62,6 +66,6 @@ Anyone who's been to Yangshuo will recognise the landscapes straight away. If yo
 
 ---
 
-*Next in the series: Victoria Falls*
+*Next in the series: [Victoria Falls, Zambia](/travel-Livingstone)*
 
 ---

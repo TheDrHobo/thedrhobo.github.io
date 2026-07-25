@@ -5,6 +5,8 @@ author: "Dr Hobo"
 categories: travel
 tags: [travel, vitoria, brazil, climbing, adventure]
 image: vitoria/rock-from-below.jpg
+seo_title: "The Rock with Two Eyes: Climbing Vitória's Highest Point"
+description: "Climbing the Rock with Two Eyes, the highest point on Vitória Island in Brazil. Written in July 2014 after six weeks living and working in the city."
 ---
 
 *Originally written July 2014, at the tail end of six weeks living and working in Vitória. Lightly edited and refurbished for this site in 2026.*
@@ -80,3 +82,7 @@ Finally I was on my way. Just before my stop someone recognised me on the bus. I
 I was very chuffed with Brazilian health care. I didn't have to pay anything, wait long, or even show any documentation (they didn't like this, but I had none on me). They cleaned my wounds and gave me a tetanus shot whilst muttering in Portuguese about crazy gringos. I gave Joanne, the Spanish girl, a hug and my thanks and headed home for bed.
 
 I'm not sure how I felt about the day as a whole. At this point I didn't really feel like I had failed, but the state of my fingers led me to believe the adventure was probably not worth it. I was proud of what I had achieved, but to have all that pain without the ultimate success was difficult to digest. I'm sure there is a moral to this story — can someone tell me what it is?
+
+---
+
+*A few weeks after this I left Vitória and headed up the coast to [Itacaré](/travel-itacare), where the only climbing involved was getting through the rainforest to the beach.*

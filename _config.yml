@@ -12,6 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Site Settings
 title: The Ranking Hobo
