@@ -4,7 +4,7 @@ title: "I'm a Traveller, Not a Tourist"
 author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, essay]
-image: backpacking.jpg
+image: /assets/img/backpacking.jpg
 seo_title: "I'm a Traveller, Not a Tourist: A Backpacking Essay"
 description: "An essay on whether backpackers are really travellers or just tourists on a budget, written in 2013 after a canoe trip down the Zambezi."
 ---

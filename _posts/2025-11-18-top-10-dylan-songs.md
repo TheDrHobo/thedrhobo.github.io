@@ -4,7 +4,9 @@ title: "Top 10 Bob Dylan Songs"
 author: "Dr Hobo"
 categories: music
 tags: [music, dylan, top10]
-image: Dylan.jpg
+image: /assets/img/Dylan.jpg
+seo_title: "Top 10 Bob Dylan Songs, from Tambourine Man to Desolation Row"
+description: "My ten favourite Bob Dylan songs, each with a video: Mr. Tambourine Man, Don't Think Twice, Desolation Row, Shelter from the Storm, Lily Rosemary and more."
 ---
 
 Favourite Dylan Songs. As of November 2025.

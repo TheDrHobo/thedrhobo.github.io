@@ -4,7 +4,7 @@ title: "The Rock with Two Eyes"
 author: "Dr Hobo"
 categories: travel
 tags: [travel, vitoria, brazil, climbing, adventure]
-image: vitoria/rock-from-below.jpg
+image: /assets/img/vitoria/rock-from-below.jpg
 seo_title: "The Rock with Two Eyes: Climbing Vitória's Highest Point"
 description: "Climbing the Rock with Two Eyes, the highest point on Vitória Island in Brazil. Written in July 2014 after six weeks living and working in the city."
 ---

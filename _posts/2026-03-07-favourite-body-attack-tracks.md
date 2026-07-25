@@ -4,7 +4,9 @@ title: "Top Body Attack Tracks"
 author: "Dr Hobo"
 categories: music
 tags: [music, body-attack, lesmills, workout, top10]
-image: bodyattack.jpg
+image: /assets/img/bodyattack.jpg
+seo_title: "My Favourite BodyAttack Tracks, Releases 114 to 124"
+description: "My favourite Les Mills BodyAttack tracks, one per slot from warmup to cooldown across releases 114 to 124: Salt, Halo, Beggin', Take On Me, Blinding Lights."
 ---
 
 Top Body Attack tracks spanning releases 114–124, with two classic detours into release 70 and release 95, as championed by a very good instructor. No ranking. Just the tracks that have made me work harder than I intended to, mapped in class order. As of March 2026.

@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+description: "A short introduction to Dr Hobo and The Ranking Hobo, a personal blog of top ten lists covering films, books, music, video games, board games and travel."
 ---
 
 # Welcome to Dr Hobo's Blog

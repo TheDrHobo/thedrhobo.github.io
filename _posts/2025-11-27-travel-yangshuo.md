@@ -4,7 +4,7 @@ title: "Yangshuo, China"
 author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, china, yangshuo]
-image: yangshuo-header.jpg
+image: /assets/img/yangshuo-header.jpg
 seo_title: "Yangshuo, China: Four Visits and The Painted Veil"
 description: "Four visits to Yangshuo between 2010 and 2017, from Dragon Bridge to Xing Ping, plus the karst landscape used as the setting for The Painted Veil (2006)."
 redirect_from:

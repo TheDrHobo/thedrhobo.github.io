@@ -4,7 +4,9 @@ title: "Top 10 Board Games"
 author: "Dr Hobo"
 categories: boardgames
 tags: [boardgames, tabletop, gaming, top10]
-image: boardgame.jpg
+image: /assets/img/boardgame.jpg
+seo_title: "My Top 10 Board Games: Terraforming Mars, Coup and More"
+description: "My ten favourite board games: Terraforming Mars, Coup, Biblios, Hansa Teutonica, Bohnanza, Tichu, Dune, Escape from Atlantis and El Grande."
 ---
 
 These are 10 board games that have earned permanent shelf space in my collection. No ranking - just games I keep coming back to and think are worth your money. As of November 2025.

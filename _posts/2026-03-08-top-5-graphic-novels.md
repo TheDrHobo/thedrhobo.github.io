@@ -4,7 +4,9 @@ title: "Top 5 Graphic Novels"
 author: "Dr Hobo"
 categories: [books, graphicnovels]
 tags: [books, comics, graphicnovels, top5]
-image: graphicnovels/graphic-novels-header.jpg
+image: /assets/img/graphicnovels/graphic-novels-header.jpg
+seo_title: "My Top 5 Graphic Novels: Watchmen, Maus, Palestine and More"
+description: "My five favourite graphic novels with a note on each: Watchmen, Maus, Joe Sacco's Palestine, Y: The Last Man and Fables, plus the ones that nearly made it."
 ---
 
 I'll be honest, I haven't read nearly enough graphic novels to justify a top 10, but the ones I have read have genuinely floored me. These five aren't just good comics, they're great pieces of storytelling, full stop. As of March 2026.

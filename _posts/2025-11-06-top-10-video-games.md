@@ -4,7 +4,9 @@ title: "Top 10 Video Games"
 author: "Dr Hobo"
 categories: videogames
 tags: [gaming, videogames, top10]
-image: gaming.jpg
+image: /assets/img/gaming.jpg
+seo_title: "My Top 10 Video Games: Ocarina of Time, Half-Life and More"
+description: "My ten favourite video games: Ocarina of Time, Half-Life, GoldenEye 007, The Last of Us, Final Fantasy IV, FTL, Grim Fandango and Red Alert 2."
 ---
 
 These are the games that have stuck with me - the ones I return to, the ones that changed how I see gaming, and the ones I can't stop recommending. No ranking, just ten games worth your time. As of November 2025. Platform and year are original release details; where I first played it later or on a different platform, I've noted that below each entry.

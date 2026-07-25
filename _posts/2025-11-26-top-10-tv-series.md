@@ -4,7 +4,9 @@ title: "Top 10 TV Series"
 author: "Dr Hobo"
 categories: films
 tags: [tv, television, series, top10]
-image: TV.jpg
+image: /assets/img/TV.jpg
+seo_title: "My Top 10 TV Series, Judged Season by Season"
+description: "My ten favourite TV series, each judged on a single season rather than the whole run: Doctor Who, Spartacus, Black Sails, Breaking Bad, Farscape, The Office."
 ---
 
 These are 10 TV series (or specific seasons) that have stuck with me over the years. No ranking - just shows I love and think are worth your time. As of November 2025.

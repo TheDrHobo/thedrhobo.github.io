@@ -4,7 +4,7 @@ title: "Itacaré, Brazil"
 author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, brazil, itacare, bahia]
-image: itacare/itacare-header.jpg
+image: /assets/img/itacare/itacare-header.jpg
 seo_title: "Itacaré, Brazil: A Backpacker's Diary from Bahia"
 description: "My July 2014 trip to Itacaré, Bahia: rainforest treks down to Prainha and Engenhoca, and canoeing up the Rio das Contas to the Cleandro Waterfalls."
 ---

@@ -4,7 +4,7 @@ title: "Victoria Falls, Zambia"
 author: "Dr Hobo"
 categories: travel
 tags: [travel, backpacking, zambia, victoria-falls]
-image: VictoriaFalls.jpg
+image: /assets/img/VictoriaFalls.jpg
 seo_title: "Victoria Falls, Zambia, and Wilbur Smith's Zambezi"
 description: "Victoria Falls and the Zambezi in April 2013: walking the park, hitching to Sioma Falls, and the Wilbur Smith novel that got me there in the first place."
 redirect_from:

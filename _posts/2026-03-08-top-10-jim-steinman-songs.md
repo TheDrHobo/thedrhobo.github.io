@@ -4,7 +4,7 @@ title: "Top 10 Jim Steinman Songs"
 author: "Dr Hobo"
 categories: music
 tags: [music, steinman, meatloaf, top10]
-image: steinman-header.jpg
+image: /assets/img/steinman-header.jpg
 seo_title: "Top 10 Jim Steinman Songs: Meat Loaf, Bonnie Tyler & More"
 description: "My ten favourite Jim Steinman songs, each with a video: Nowhere Fast, Total Eclipse of the Heart, Making Love Out of Nothing at All, Bat Out of Hell and more."
 ---

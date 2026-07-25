@@ -4,7 +4,9 @@ title: "Top 10 Frank Turner Songs"
 author: "Dr Hobo"
 categories: music
 tags: [music, frank-turner, top10]
-image: frank-turner-love-ire-and-song-v0-z8mqxud0byj91.jpg
+image: /assets/img/frank-turner-love-ire-and-song-v0-z8mqxud0byj91.jpg
+seo_title: "Top 10 Frank Turner Songs, from I Still Believe to Sea Legs"
+description: "My ten favourite Frank Turner songs, each with a video: I Still Believe, Try This at Home, The Ballad of Me and My Friends, Get Better, Love Ire & Song."
 ---
 
 Favourite Frank Turner Songs. As of April 2026.
